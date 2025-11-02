@@ -1,0 +1,15 @@
+Exposure	Outcome	OR	Lower	Upper	SNPs	First_author_year_of_publication_Ref	P-Value
+Type 2 diabetes	Age-related macular degeneration	0.89	0.77	1.02	134	"Valerie Kuan,2021(94)"	p < 0.001
+Type 2 diabetes	Primary open-angle glaucoma	2.53	1.04	6.11	39	"Ling Shen, 2016(95)"	p = 4.00 × 10?²
+Type 2 diabetes	Optic nerve disorder	1.1	0.99	1.23	184	"Rumeng Chen, 2014(97)"	p = 7.01 × 10?²
+Type 2 diabetes	Glaucoma	1.08	1.02	1.13	184	"Rumeng Chen, 2015(97)"	p = 4.81 × 10?³
+Type 2 diabetes	Cataract	1.07	1.03	1.11	184	"Rumeng Chen, 2016(97)"	p = 7.77 × 10??
+Type 2 diabetes	Primary open-angle glaucoma	1.01	0.95	1.06	129	"Zhao Hu, 2022(98) -  unadjusted for BMI"	p = 1.56 × 10?¹
+Type 2 diabetes	Primary open-angle glaucoma	1	0.94	1.05	91	"Zhao Hu, 2023(98) - adjusted for BMI"	p = 6.60 × 10?²
+Type 2 diabetes	Primary open-angle glaucoma	1.07	1.01	1.14	165	"Zhao Hu, 2024(98) - unadjusted for BMI"	p < 0.001
+Type 2 diabetes	Primary open-angle glaucoma	1.07	1.01	1.15	115	"Zhao Hu, 2025(98) - adjusted for BMI"	p < 0.001
+Type 2 diabetes	Cataract	1.04	1.01	1.08	66	"Chen Jiang, 2023(99)"	p > 0.05
+Type 2 diabetes	Cataract	1.06	1.03	1.09	497	"Shuai Yuan,2022(100)"	p < 0.001
+Type 2 diabetes	Retinal vein occlusion	2.82	2.07	3.85	83	"Jian Huang,2023(101)"	p = 4.87 × 10?¹¹
+Type 2 diabetes	Cataract	1.1	1.06	1.17	115	"Haoyang Zhang,2022(102)"	p = 5.60 × 10??¹
+Type 2 diabetes	Macular hole	0.96	0.86	1.08	163	Nie etal. 2025 (103)	p = 5.63 × 10?¹

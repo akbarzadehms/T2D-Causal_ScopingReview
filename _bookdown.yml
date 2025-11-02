@@ -1,0 +1,29 @@
+rmd_files:
+  - index.Rmd
+  - S14.Rmd
+  - S1.Rmd
+  - S9.Rmd
+  - S12.Rmd
+  - S4.Rmd
+  - S7.Rmd
+  - S8.Rmd
+  - S11.Rmd
+  - S3.Rmd
+  - S21.Rmd
+  - S13.Rmd
+  - S17.Rmd
+  - S18.Rmd
+  - S10.Rmd
+  - S20.Rmd
+  - S15.Rmd
+  - S5.Rmd
+  - S6.Rmd
+  - S2.Rmd
+  - S16.Rmd
+  - S19.Rmd
+book_filename: "my-book"
+delete_merged_file: true
+new_session: true
+
+
+

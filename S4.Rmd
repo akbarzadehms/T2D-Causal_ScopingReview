@@ -1,0 +1,365 @@
+---
+date: "`r format(Sys.Date(), '%B %d, %Y')`"
+output:
+  html_document:
+    self_contained: true
+    toc: true
+    toc_depth: 3
+    toc_float:
+      collapsed: false
+      smooth_scroll: true
+      position: left
+params:
+  path: "S4.txt"
+  outcome_label: "Type 2 Diabetes"
+  exposure_label: "!Type 2 Diabetes"
+  use_log_scale: true
+  drop_extremes: true
+  or_min: 0.10
+  or_max: 5
+  trim_by_quantile: false
+  trim_q: [0.01, 0.99]
+  split_key: "type 2 diabetes"
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+suppressPackageStartupMessages({
+  library(tidyverse); library(readr); library(stringr); library(stringi)
+  library(plotly); library(htmltools)
+})
+
+`%||%` <- function(a, b) if (!is.null(a)) a else b
+to_numeric_safe <- function(x){ x <- str_replace_all(x, ",", "."); suppressWarnings(as.numeric(x)) }
+norm_colnames <- function(nms){ nms <- str_trim(nms); nms <- str_replace_all(nms, "\\s+",""); tolower(nms) }
+pick_name <- function(nms, candidates){ idx <- which(tolower(nms) %in% tolower(candidates)); if(length(idx)) nms[idx[1]] else NA_character_ }
+label_plain <- function(x) trimws(format(x, digits = 3, nsmall = 0, scientific = FALSE))
+log6_breaks <- function(x, n = 6){ x <- x[is.finite(x) & x > 0]; if(!length(x)) return(NULL); rng <- range(x); 10^seq(log10(rng[1]), log10(rng[2]), length.out = n) }
+get_limits_log <- function(x, pad=0.10){ x <- x[is.finite(x)&x>0]; if(!length(x)) return(NULL); c(min(x)*(1-pad), max(x)*(1+pad)) }
+
+utf8_clean <- function(x){
+  x <- if (is.factor(x)) as.character(x) else as.character(x)
+  x <- stringi::stri_replace_all_regex(x, "[\\p{Cc}\\p{Cf}]", "")
+  x <- stringi::stri_trans_nfkc(x)
+  iconv(x, from = "", to = "UTF-8", sub = "")
+}
+clean_chr_cols <- function(d){ d %>% mutate(across(where(is.character), utf8_clean)) }
+
+style_plotly <- function(ply, title_html, subtitle_html, show_legend = TRUE){
+  # تعیین موقعیت و ظاهر لیجند
+  legend_layout <- if (isTRUE(show_legend)) list(
+    orientation = "v",             # عمودی
+    x = 1.02,                      # کمی بیرون از سمت راست نمودار
+    y = 0.10,                      # در پایین نمودار
+    xanchor = "left",
+    yanchor = "bottom",
+    bgcolor = "rgba(255,255,255,0)",  # بدون پس‌زمینه (شفاف)
+    bordercolor = NULL,               # بدون رنگ حاشیه
+    borderwidth = 0,                  # بدون قاب
+    font = list(size = 12, family = "Arial")
+  ) else list()  # در صورت نبود لیجند، خالی می‌ماند
+
+  # افزایش حاشیه راست برای جا دادن لیجند
+  right_margin <- if (isTRUE(show_legend)) 150 else 30
+
+  ply %>%
+    layout(
+      title = list(
+        text = paste0(title_html, "<br><sup>", subtitle_html, "</sup>"),
+        font = list(family = "Arial", size = 14)
+      ),
+      font  = list(family = "Arial", size = 12),
+      legend = legend_layout,
+      margin = list(l = 70, r = right_margin, t = 50, b = 70),
+      xaxis  = list(
+        showline = TRUE, linewidth = 1, mirror = TRUE,
+        tickangle = 0, titlefont = list(size = 12)
+      ),
+      yaxis  = list(
+        showline = TRUE, linewidth = 1, mirror = TRUE,
+        titlefont = list(size = 12)
+      ),
+      paper_bgcolor = "white",
+      plot_bgcolor  = "white",
+      hoverlabel = list(align = "left")
+    ) %>%
+    config(
+      displaylogo = FALSE,
+      modeBarButtonsToRemove = c(
+        "zoom2d","pan2d","select2d","lasso2d",
+        "zoomIn2d","zoomOut2d","autoScale2d","resetScale2d"
+      )
+    ) %>%
+    layout(showlegend = show_legend)
+}
+
+read_delim_guess <- function(path){
+  head_txt <- readLines(path, warn = FALSE, n = 5)
+  tab_ct   <- sum(str_count(head_txt, "\\t"))
+  comma_ct <- sum(str_count(head_txt, ","))
+  if (tab_ct >= comma_ct) {
+    readr::read_tsv(path, locale = readr::locale(encoding="UTF-8"),
+                    show_col_types = FALSE, progress = FALSE, na = c("", "NA"))
+  } else {
+    readr::read_csv(path, locale = readr::locale(encoding="UTF-8"),
+                    show_col_types = FALSE, progress = FALSE, na = c("", "NA"))
+  }
+}
+
+# --- Add/Replace this block inside your {r setup, include=FALSE} ---
+
+# Read input data (reuse your helper)
+dat <- read_delim_guess(params$path) |> clean_chr_cols()
+
+# Helper: detect "Type 2 Diabetes" with flexible spelling
+is_t2d <- function(x) grepl("^\\s*type\\s*2\\s*diab", tolower(trimws(x)), ignore.case = TRUE)
+
+# Helper: interpret exposure_label allowing "!" prefix => NOT
+exp_selector <- function(vec, label) {
+  if (startsWith(label, "!")) {
+    # Select everything except Type 2 Diabetes
+    !is_t2d(vec)
+  } else {
+    tolower(trimws(vec)) == tolower(trimws(label))
+  }
+}
+
+# Normalize essential columns (if your file already uses these exact names, this is a no-op)
+nm <- names(dat)
+exp_col <- pick_name(nm, c("Exposure","exposure"))
+out_col <- pick_name(nm, c("Outcome","outcome"))
+or_col  <- pick_name(nm, c("OR","or","oddsratio"))
+lo_col  <- pick_name(nm, c("Lower","lower","lcl","ci_lower"))
+up_col  <- pick_name(nm, c("Upper","upper","ucl","ci_upper"))
+p_col   <- pick_name(nm, c("P-Value","p","pvalue","p_value"))
+
+dat <- dat |>
+  rename(
+    Exposure = all_of(exp_col),
+    Outcome  = all_of(out_col),
+    OR       = all_of(or_col),
+    Lower    = all_of(lo_col),
+    Upper    = all_of(up_col),
+    P        = all_of(p_col)
+  ) |>
+  mutate(
+    OR        = to_numeric_safe(OR),
+    Lower     = to_numeric_safe(Lower),
+    Upper     = to_numeric_safe(Upper),
+    Precision = 1 / pmax(1e-9, (Upper - Lower)),
+    Effect = dplyr::case_when(
+      is.finite(OR) & Lower > 1 & OR > 1 ~ "Risk",
+      is.finite(OR) & Upper < 1 & OR < 1 ~ "Protective",
+      TRUE ~ "Not Significant"
+    ),
+    tooltip_text = paste0(
+      "Exposure: ", Exposure, "<br>",
+      "Outcome: ", Outcome, "<br>",
+      "OR: ", label_plain(OR),
+      " [", label_plain(Lower), ", ", label_plain(Upper), "]"
+    )
+  )
+
+# Forward MR: exposures = non-T2D (because of "!Type 2 Diabetes") -> outcome = T2D
+data_exposure <- subset(dat, exp_selector(Exposure, params$exposure_label) & is_t2d(Outcome))
+
+# Reverse MR: exposure = T2D -> outcomes = non-T2D (again via "!Type 2 Diabetes")
+data_outcome  <- subset(dat, is_t2d(Exposure) & exp_selector(Outcome, params$exposure_label))
+
+
+
+
+is_t2d_exposure <- function(x, key = params$split_key){
+  x_low  <- tolower(trimws(x))
+  key    <- tolower(trimws(key %||% ""))
+  if (nzchar(key) && any(x_low == key, na.rm = TRUE)) {
+    x_low == key
+  } else {
+    grepl("type[[:space:]]*2[[:space:]]*diab", x_low, perl = TRUE)
+  }
+}
+
+build_plot <- function(d, title_text, subtitle_text, show_legend = TRUE){
+  use_log <- isTRUE(params$use_log_scale)
+  if (use_log){
+    x_limits <- get_limits_log(d$OR,        pad = 0.10)
+    y_limits <- get_limits_log(d$Precision, pad = 0.10)
+    x_scale  <- scale_x_log10(breaks = log6_breaks(d$OR, n=6), labels = label_plain, limits = x_limits)
+    y_scale  <- scale_y_log10(limits = y_limits)
+  } else {
+    xr <- range(d$OR,        finite=TRUE);  yr <- range(d$Precision, finite=TRUE)
+    x_scale  <- scale_x_continuous(limits = xr*c(0.95,1.05),
+                                   breaks = scales::pretty_breaks(n=6), labels = label_plain)
+    y_scale  <- scale_y_continuous(limits = yr*c(0.95,1.05),
+                                   breaks = scales::pretty_breaks(n=6), labels = label_plain)
+  }
+
+  p <- ggplot(
+    d, aes(x = OR, y = Precision, size = Precision, color = Effect, text = tooltip_text)
+  ) +
+    geom_vline(xintercept = 1, linetype = "dashed", color = "grey40") +
+    geom_point(alpha = 0.85, stroke = 0.6) +
+    scale_color_manual(name = "Effect Type:", values = c("Protective"="#0072B2","Risk"="#D55E00","Not Significant"="grey70")) +
+    scale_size_continuous(range = c(3,12), guide = "none") +
+    x_scale + y_scale +
+    labs(
+      x = "Odds Ratio (Effect Size)",
+      y = "Precision of Estimate (1 / CI Width)",
+      title = title_text,
+      subtitle = subtitle_text
+    ) +
+    theme_minimal(base_size = 12, base_family = "Arial") +
+    theme(
+      plot.title.position = "plot",
+      plot.title    = element_text(face = "bold"),
+      plot.subtitle = element_text(margin = margin(t = 4, b = 8)),
+      legend.position = "bottom",
+      legend.title = element_text(face = "bold"),
+      panel.grid.minor = element_blank(),
+      panel.grid.major.x = element_line(linetype = "dotted"),
+      panel.grid.major.y = element_line(linetype = "dotted"),
+      plot.margin = margin(10, 12, 10, 12)
+    )
+
+  # let ggplotly build tooltips from `text` (which already contains <br>)
+  ply <- ggplotly(p, tooltip = "text")
+
+  # ---- CRITICAL FIX ----
+  # Some traces may only have `hovertext` (or only `text`). Unify and remove placeholders.
+  for (i in seq_along(ply$x$data)){
+    tr <- ply$x$data[[i]]
+    # prefer existing text, otherwise use hovertext
+    txt <- if (!is.null(tr$text) && nzchar(tr$text[1])) tr$text else (tr$hovertext %||% "")
+    ply$x$data[[i]]$text <- txt          # ensure `text` is always filled
+    ply$x$data[[i]]$hovertext <- NULL    # avoid %{hovertext} showing up
+    ply$x$data[[i]]$hovertemplate <- NULL# use default (respects <br> line breaks)
+    ply$x$data[[i]]$hoverinfo <- "text"  # force using text
+  }
+  # ---------------------
+
+  style_plotly(
+    ply,
+    title_html    = title_text,
+    subtitle_html = subtitle_text,
+    show_legend   = show_legend
+  )
+}
+```
+
+```{r data-prep, include=FALSE}
+# 1) Read
+path <- params$path
+stopifnot(file.exists(path))
+raw_df <- suppressWarnings(read_delim_guess(path)) %>% clean_chr_cols()
+stopifnot(nrow(raw_df) > 0)
+
+# 2) Map columns
+nms <- norm_colnames(names(raw_df)); names(raw_df) <- nms
+exposure_col <- pick_name(nms, c("exposure","factor","variable","name"))
+or_col       <- pick_name(nms, c("or","oddsratio","effect","estimate"))
+low_col      <- pick_name(nms, c("lower","lcl","lcl95","lowerci","ci_lower","ci.low","ci.lower"))
+upp_col      <- pick_name(nms, c("upper","ucl","ucl95","upperci","ci_upper","ci.high","ci.upper"))
+ref_col      <- pick_name(nms, c("first_author_year_of_publication_ref","reference","ref","author","study"))
+pval_col     <- pick_name(nms, c("p-value","p_value","pval","pvalue","p"))
+stopifnot(!any(is.na(c(exposure_col, or_col, low_col, upp_col))))
+
+df <- raw_df %>%
+  transmute(
+    Exposure = as.character(.data[[exposure_col]]),
+    OR       = to_numeric_safe(.data[[or_col]]),
+    Lower    = to_numeric_safe(.data[[low_col]]),
+    Upper    = to_numeric_safe(.data[[upp_col]]),
+    RefInfo  = if (!is.na(ref_col))  as.character(.data[[ref_col]])  else NA_character_,
+    PValue   = if (!is.na(pval_col)) as.character(.data[[pval_col]]) else NA_character_
+  ) %>%
+  clean_chr_cols()
+
+# 3) Validate & trim
+df <- df %>% filter(is.finite(OR), is.finite(Lower), is.finite(Upper), OR > 0)
+swap_idx <- which(df$Lower > df$Upper)
+if (length(swap_idx) > 0) {
+  tmp <- df$Lower[swap_idx]; df$Lower[swap_idx] <- df$Upper[swap_idx]; df$Upper[swap_idx] <- tmp
+}
+
+if (isTRUE(params$drop_extremes) && !isTRUE(params$trim_by_quantile)) {
+  df <- df %>% filter(OR >= params$or_min, OR <= params$or_max)
+}
+if (isTRUE(params$trim_by_quantile)) {
+  qs <- quantile(df$OR, probs = unlist(params$trim_q), na.rm = TRUE)
+  df <- df %>% filter(OR >= qs[[1]], OR <= qs[[2]])
+}
+
+# 4) Features & class
+epsilon <- 1e-12
+df <- df %>%
+  mutate(
+    .is_t2d        = is_t2d_exposure(Exposure),
+    Exposure_class = ifelse(.is_t2d, "Type 2 diabetes", "Non-Type 2 diabetes"),
+    Effect         = case_when(
+      Upper < 1 ~ "Protective",
+      Lower > 1 ~ "Risk",
+      TRUE ~ "Not Significant"
+    ),
+    Effect         = factor(Effect, levels = c("Risk","Protective","Not Significant")),
+    CI_width       = pmax(Upper - Lower, 1e-12),
+    Precision      = 1 / CI_width,
+    Exposure_clean = utf8_clean(Exposure),
+
+    # فقط سه فیلد: Exposure / OR / CI
+tooltip_text = paste0(
+  htmlEscape(Exposure_clean), ", OR: ",
+  gsub("\\.", ",", sprintf("%.3f", OR)),
+  " [", gsub("\\.", ",", sprintf("%.3f", Lower)), ", ",
+        gsub("\\.", ",", sprintf("%.3f", Upper)), "]"
+)
+
+  )
+
+df$tooltip_text <- gsub("[\\r\\n]+", " ", df$tooltip_text)
+
+df_t2d <- df %>% filter(Exposure_class == "Type 2 diabetes")
+df_non <- df %>% filter(Exposure_class == "Non-Type 2 diabetes")
+```
+
+
+# Circulatory diseases
+
+
+## Circulatory diseasess on Type 2 Diabetes
+
+Summary of MR findings assessing Circulatory diseases as exposures influencing T2DM risk
+
+```{r panel-non}
+if (nrow(df_non) > 0) {
+  build_plot(
+    df_non,
+    title_text    = "Exposure: Circulatory diseases | Outcome: Type 2 Diabetes",
+    subtitle_text = "Causal Effects of Circulatory diseasess on Type 2 Diabetes",
+    show_legend   = TRUE
+  )
+} else {
+  HTML("<b>No rows for Non-Type 2 diabetes after filters.</b> Try relaxing the OR range or trimming params.")
+}
+```
+
+
+
+## Type 2 Diabetes on Circulatory diseases
+
+Synthesized MR evidence examining T2DM as a causal exposure for Circulatory diseases outcomes
+
+```{r panel-t2d}
+if (nrow(df_t2d) > 0) {
+  build_plot(
+    df_t2d,
+    title_text    = "Exposure: Type 2 Diabetes | Outcomes: Circulatory diseases",
+    subtitle_text = "Causal Effects of Type 2 Diabetes on Circulatory diseasess",
+    show_legend   = TRUE
+  )
+} else {
+  HTML("<b>No rows for Type 2 diabetes after filters.</b> Try relaxing the OR range or trimming params.")
+}
+```
+

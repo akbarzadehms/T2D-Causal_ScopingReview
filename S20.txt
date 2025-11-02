@@ -1,0 +1,26 @@
+Exposure	Outcome	OR	Lower	Upper	SNPs	First_author_year_of_publication_Ref	P-Value
+Sleep metabolome	Type 2 diabetes	0.51	0.4	0.63		Zhenhuang Zhuang -2023(158)	p = 3.00 × 10?³²?
+Insomnia	Type 2 diabetes	1.14	1.07	1.22	127	Wen Xiuyun -2022(159)	p < 1 × 10?³²?
+Obstructive sleep apnea	Type 2 diabetes	2.02	1.19	3.43	3	L Xia -2023(160)	p < 0.05
+Type 2 diabetes	Obstructive sleep apnea	1.03	0.98	1.08	114	L Xia -2023(160)	p = 2.38 × 10?¹
+Insomnia	Type 2 diabetes	1.15	1.09	1.21	167	Yujia Ma -2024(161)	p < 0.001
+Daytime sleepiness	Type 2 diabetes	1.85	1.009	3.38	34	M Guo-2022(162)	p = 4.70 × 10?²
+Sleep duration	Type 2 diabetes	1.15	1.09	1.21	68	Jiao Wang -2019(163)	p < 5 × 10??
+Long sleep duration	Type 2 diabetes	0.9	0.68	1.2	8	Bin He-2022(164)	p = 4.88 × 10?¹
+Short sleep duration	Type 2 diabetes	1.06	0.88	1.28	27	Bin He-2022(164)	p = 5.28 × 10?¹
+Insomnia	Type 2 diabetes	1.14	1.09	1.19	167	Xue Gao-2020(165)	p = 1.29 × 10??
+Sleep duration	Type 2 diabetes	1	1	1	56	Xue Gao-2020(165)	p = 4.30 × 10?¹
+Short sleep duration	Type 2 diabetes	1.15	0.96	1.38	17	Xue Gao-2020(165)	p = 9.00 × 10?²
+Long sleep duration	Type 2 diabetes	1.1	0.79	1.51	5	Xue Gao-2020(165)	p = 4.30 × 10?¹
+Morningness chronotype	Type 2 diabetes	1.03	0.98	1.08	284	Xue Gao-2020(165)	p = 2.90 × 10?¹
+Daytime napping	Type 2 diabetes	1.56	1.21	2.02	141	Yiming Jia -2022(166)	p < 5 × 10??
+Insomnia	Type 2 diabetes	1.16	1.11	1.22	240	Yiming Jia -2022(166)	p < 5 × 10??
+Obstructive sleep apnea	Type 2 diabetes	3.58	1.06	12.11	4	Xiaoxu Ding-2023(167)	p = 4.00 × 10?²
+Sleep traits	Type 2 diabetes	1.37	1.09	1.72	58	Yujia Ma-2022(168)	p = 6.80 × 10?³
+Insulin resistance	Insomnia	1.11	1.01	1.21	78	Xiaoyu Wang-2023(169)	p = 3.20 × 10?²
+Sleep duration	Type 2 diabetes	0.85	0.64	1.13	68	Jiao Wang-2019(163)	p = 1.00 × 10??
+Sleep apnea and snoring	Type 2 diabetes	1.74	1.02	2.94	4	Jiao Wang-2023(170)	p = 4.00 × 10?²
+Obstructive sleep apnea and sleep traits	Type 2 diabetes	0.52	0.37	0.66		"Satu Strausz, 2021(171)"	p = 6.40 × 10?¹²
+Obstructive sleep apnea and sleep traits	Type 2 diabetes	1.14	1.06	1.23	37	"Yubin Shen, 2023(172)"	p = 5.00 × 10??
+Short sleep duration	Type 2 diabetes	1.12	1.02	1.23	23		p < 0.05
+Type 2 diabetes	REM sleep behavior disorder	1.23	1.03	1.46		Zhang et al. 2024 (173)	p = 2.18 × 10?²

@@ -1,0 +1,7 @@
+Exposure	Outcome	OR	Lower	Upper	SNPs	First_author_year_of_publication_Ref	P-Value	
+Psoriasis	Type 2 diabetes	1.01	1.005	1.015	3749	"Matthew T Patrick, 2021 (121)"	p=1.6x10-4	
+Type 2 diabetes	Psoriasis	1.05	1.01	1.092	3703	"Matthew T Patrick, 2021 (121)"	p=0.014	
+Psoriasis	Type 2 diabetes	1.01	0.99	1.03	47	"Christos V Chalitsios, 2024 (122)"	0.329	
+Type 2 diabetes	Psoriasis	1.05	0.977	1.13	200	"Christos V Chalitsios, 2024 (122)"	0.175	
+Type 2 diabetes	Psoriasis	1.04	0.99	1.08	143	Li et al. 2025 (123)	0.118	
+Psoriasis	Type 2 diabetes	1.02	0.99	1.05	31	Li et al. 2025 (123)	0.155	

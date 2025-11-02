@@ -1,0 +1,115 @@
+Exposure	Outcome	OR	Lower	Upper	SNPs	First_author_year_of_publication_Ref	P-Value
+Vigorous activity	Type 2 diabetes	0.27	0.14	0.54	7	Ming-Gang Deng 2022 (9)	p = 2.00 × 10??
+Moderate activity	Type 2 diabetes	0.31	0.18	0.54	5	Ming-Gang Deng 2022 (9)	p < 0.0001
+PM2.5 absorbance	Type 2 diabetes	0.33	0.02	7.51		Chen-Xi Liu 2024 (38)	p = 4.89 × 10?¹
+PM10	Type 2 diabetes	0.33	0.07	1.5		Chen-Xi Liu 2024 (38) 	p = 1.51 × 10?¹
+Educational level	Type 2 diabetes	0.39	0.26	0.58	17	Li-Zhen Liao  2021 (19) 	p < 1 × 10?³²?
+Type 2 diabetes	Longevity	0.39	0.29	0.56	248	Guoyi Yang  2022 (25)	p < 0.001
+Cheese intake	Type 2 diabetes	0.46	0.34	0.63	43	Meng-Jin Hu  2022 (20)	p = 1.02 × 10??
+Raw vegetable intake	Type 2 diabetes	0.5	0.33	0.74	30	Yiming Jia MD 2022 (34)	p = 6.36 × 10??
+Educational level	Type 2 diabetes	0.53	0.47	0.6	263	Jialin Liang 2021 (33)	p < 0.001
+Educational level	Type 2 diabetes	0.53	0.49	0.56	1212	Yiming Jia MD 2022 (34)	p = 3.32 × 10???
+Educational level	Type 2 diabetes	0.53	0.49	0.56	1208	Jia Zhang 2022 (1)	p = 2.74 × 10??¹
+Educational level	Type 2 diabetes	0.54	0.47	0.61	251	"Mengjin Hu, MD 2023 (39)"	p = 3.04 × 10?²³
+Educational level	Type 2 diabetes	0.59	0.52	0.67	314	Xin Zhang  2024 (5)	p = 1.25 × 10?¹?
+Educational level	Type 2 diabetes	0.61	0.5	0.75	66	Min Cao  2020 (17)	p = 1.16 × 10??
+Household income	Type 2 diabetes	0.64	0.46	0.89	35	Xifeng Zheng 2023 (26)	p = 7.00 × 10?³
+Type 2 diabetes	Longevity	0.64	0.54	0.77	248	Guoyi Yang  2022 (25)	p < 0.001
+Moderate–vigorous activity	Type 2 diabetes	0.66	0.18	2.4	7	Yiming Jia MD 2022 (34)	p = 5.30 × 10?¹
+High HDL cholesterol	Type 2 diabetes	0.66	0.59	0.74	65	Zhaoqi Yan 2024 (2)	p = 1.41 × 10?¹³
+Moderate–vigorous activity	Type 2 diabetes	0.7	0.55	0.88	22	Shuai Yuan 2023 (6)	p = 2.00 × 10?³
+Educational level	Type 2 diabetes	0.75	0.57	0.99	210	Nat Na-Ek 2022 (13)	p = 4.10 × 10?²
+Long sleep	Type 2 diabetes	0.77	0.43	1.37	7	Yiming Jia MD 2022 (34) 	p = 3.70 × 10?¹
+Cognitive performance	Type 2 diabetes	0.79	0.69	0.91	111	Jialin Liang 2021 (33)	p = 1.00 × 10?³
+Coffee consumption	Type 2 diabetes	0.79	0.71	0.88	5	Hyun Jeong Cho 2023 (7)	p < 0.001
+Household income	Type 2 diabetes	0.82	0.73	0.91	25	Li et al. 2025 (46)	p = 1.93 × 10??
+Accelerometer physical activity	Type 2 diabetes	0.83	0.56	1.23	8	Christa Meisinger 2020 (32)	p = 3.57 × 10?¹
+Educational level	Type 2 diabetes	0.83	0.81	0.86		Macciotta et al. 2025(43)	
+Computer use	Type 2 diabetes	0.85	0.72	1.01	71	Ming-Gang Deng 2022 (9)	p = 5.80 × 10?²
+Longevity	Type 2 diabetes	0.85	0.82	0.89	268	Xiaolin Ni 2023 (29)	p = 1.06 × 10?¹¹
+Sedentary behaviour	Type 2 diabetes	0.86	0.69	1.08	5	Christa Meisinger 2020 (32)	p = 1.90 × 10?¹
+Longevity	Type 2 diabetes	0.86	0.8	0.92	268	Xiaolin Ni 2023 (29)	p = 2.11 × 10??
+Computer use	Type 2 diabetes	0.88	0.63	1.22		Zhong et al. 2025 (42)	p = 4.40 × 10?¹
+Sedentary time	Type 2 diabetes	0.88	0.7	1.1	4	Yiming Jia MD 2022 (34)	p = 2.70 × 10?¹
+Type 2 diabetes	Longevity	0.88	0.8	0.96	33	Shu-Yi Huang  2021(27)	p = 4.00 × 10?³
+Computer use	Type 2 diabetes	0.91	0.75	1.11	65	Zhengqi Qiu 2024 (40)	p = 3.45 × 10?¹
+Instant coffee	Type 2 diabetes	0.91	0.93	1.68	111	Xinpei Wang 2022 (28)	
+Fat intake	Type 2 diabetes	0.92	0.81	1.06	1	Renyu Ding 2018 (31)	p = 2.61 × 10?¹
+Lamb intake	Type 2 diabetes	0.93	0.5	1.73		Guangling Li 2024 (41)	p = 8.17 × 10?¹
+Ground coffee	Type 2 diabetes	0.94	0.75	1.19	136	Xinpei Wang 2022 (28)	
+Social activity	Type 2 diabetes	0.95	0.9	1	28	Yanjun Song 2023 (24)	p = 4.20 × 10?²
+Social activity	Type 2 diabetes	0.95	0.93	0.97	73	Yanjun Song 2023 (24)	p < 0.001
+Alcohol intake	Type 2 diabetes	0.98	0.94	1.03		Kember et al. 2024 (48)	p = 4.76 × 10?¹
+Social activity	Type 2 diabetes	0.98	0.95	1.01	51	Yanjun Song 2023 (24)	p = 1.18 × 10?¹
+Social activity	Type 2 diabetes	0.98	0.96	1	168	Yanjun Song 2023 (24)	p = 2.20 × 10?²
+Living arrangement	Type 2 diabetes	0.98	0.96	1.01	19	Yanjun Song 2023 (24)	p = 1.80 × 10?¹
+Green tea intake	Type 2 diabetes	0.98	0.98	1	21	Yiming Jia MD 2022 (34)	p = 7.40 × 10?¹
+Type 2 diabetes	Socioeconomic deprivation	0.987			42	sara Pedron 2021 (8)	p = 6.34 × 10?¹
+Type 2 diabetes	Household income	0.987			42	sara Pedron 2021 (8)	p = 7.93 × 10?¹
+Smoking amount	Type 2 diabetes	0.99	0.96	1.01	3	Renyu Ding 2018 (31)	p = 3.57 × 10?¹
+Social contact	Type 2 diabetes	0.99	0.99	1	105	Yanjun Song 2023 (24)	p = 4.60 × 10?²
+Type 2 diabetes	Smoking	0.998			39	Yanna Chi 2022 (30)	p = 6.35 × 10?¹
+Confiding willingness	Type 2 diabetes	1	0.9	1.1	99	Yanjun Song 2023 (24)	p = 7.70 × 10?¹
+Cannabis use	Type 2 diabetes	1	0.93	1.09	19	Sebastian-Edgar Baumeister 2021 (10)	p = 9.35 × 10?¹
+Accelerometer physical activity	Type 2 diabetes	1	0.94	1.06	6	Zhao et al. 2024(50)	p = 9.61 × 10?¹
+Accelerometer physical activity	Type 2 diabetes	1	0.94	1.07	7	Christa Meisinger 2020 (32)	p = 9.48 × 10?¹
+Sleep duration	Type 2 diabetes	1	0.98	1.02	77	Yiming Jia MD 2022 (34)	p = 8.00 × 10?¹
+Type 2 diabetes	Artificial sweetener 	1.007	1.002	1.012	174	Youqian Zhang  2024 (4)	p = 4.00 × 10?³
+Type 2 diabetes	Artificial sweetener 	1.009	1.001	1.017	176	Youqian Zhang  2024 (4)	p = 3.60 × 10?²
+Social activity	Type 2 diabetes	1.01	0.99	1.04	89	Yanjun Song 2023 (24)	p = 3.59 × 10?¹
+Sleep	Type 2 diabetes	1.01	1	1.01	4	Renyu Ding 2018 (31)	p = 5.80 × 10?²
+Type 2 diabetes	Artificial sweetener 	1.013	1.004	1.022	176	Youqian Zhang  2024 (4)	p = 4.00 × 10?³
+Artificial sweetener	Type 2 diabetes	1.02	0.76	1.38	20	Youqian Zhang  2024 (4)	p = 8.79 × 10?¹
+Coffee consumption	Type 2 diabetes	1.02	0.76	1.36	5	Man Ki Kwok  2016 (22)	p < 0.005
+Accelerometer physical activity	Type 2 diabetes	1.028	0.983	1.08	6	Ming-Gang Deng 2022 (9)	p = 2.29 × 10?¹
+Social activity	Type 2 diabetes	1.03	1.02	1.05	87	Yanjun Song 2023 (24)	p < 0.001
+Alcohol intake	Type 2 diabetes	1.04	0.4	2.65	70	Reed et al. 2025 (44)	p = 9.40 × 10?¹
+Tea caffeine	Type 2 diabetes	1.04	0.79	1.36	24	M Abdullah Said 2020 (18)	p = 7.90 × 10?¹
+Loneliness	Type 2 diabetes	1.04	1.02	1.06	91	Yanjun Song 2023 (24) 	p < 0.001
+Carbohydrate intake	Type 2 diabetes	1.05	0.96	1.15	3	Renyu Ding 2018 (31)	p = 2.62 × 10?¹
+Alcohol intake	Type 2 diabetes	1.06	0.79	1.41	90	Yiming Jia MD 2022 (34)	p = 7.00 × 10?¹
+Decaffeinated coffee	Type 2 diabetes	1.07	0.94	1.23	75	Xinpei Wang 2022 (28)	
+ACE inhibitor	Type 2 diabetes	1.09	0.05	1.12	17	Marie Pigeyre 2020 (15)	p = 1.79 × 10??
+Processed meat intake	Type 2 diabetes	1.09	0.71	1.66		Guangling Li 2024 (41)	p = 2.16 × 10?¹
+Alcohol consumption	Type 2 diabetes	1.09	1.06	1.13		Tianyuan Lu 2023 (36)	p = 2.20 × 10??
+Alcohol dependence	Type 2 diabetes	1.1	1.05	1.16	2	Yiming Jia MD 2022 (34)	p = 6.44 × 10??
+Breakfast skipping	Type 2 diabetes	1.11	0.63	1.97		Meng Xia 2024 (3)	p = 7.09 × 10?¹
+Long sleep	Type 2 diabetes	1.13	1.03	1.64	27	Hu et al. 2025 (45)	p = 7.00 × 10?¹
+Smoking	Type 2 diabetes	1.13	1.06	1.21	377	Shuai Yuan 2019 (11)	p = 1.18 × 10??
+Short sleep	Type 2 diabetes	1.16	0.94	1.42	26	Yiming Jia MD 2022 (34)	p = 1.70 × 10?¹
+Insomnia	Type 2 diabetes	1.16	1.11	1.22	240	Yiming Jia MD 2022 (34)	p = 3.89 × 10?¹¹
+Artificial sweetener	Type 2 diabetes	1.17	0.97	1.43	16	Youqian Zhang  2024 (4)	p = 1.08 × 10?¹
+Smoking heaviness	Type 2 diabetes	1.18	0.98	1.41	46	Yiming Jia MD 2022 (34)	p = 7.00 × 10?³
+Smoking initiation	Type 2 diabetes	1.21	1.15	1.27	341	Christopher S Thom  2020 (23)	p = 1.00 × 10?¹²
+Pork intake	Type 2 diabetes	1.24	0.36	4.22		Guangling Li 2024 (41)	p = 7.36 × 10?¹
+Cardiorespiratory fitness	Type 2 diabetes	1.24	1.04	1.22	126	Lina Cai  2023 (21)	p = 5.00 × 10?³
+Breakfast skipping	Type 2 diabetes	1.26	0.51	1.34	5	Dongze Chen 2022 (12)	p = 6.18 × 10?¹
+Artificial sweetener	Type 2 diabetes	1.27	1.04	1.54	14	Youqian Zhang  2024 (4)	p = 1.80 × 10?²
+Smoking initiation	Type 2 diabetes	1.28	0.61	2.7	1	Renyu Ding 2018 (31)	p = 5.15 × 10?¹
+PCSK9 variants	Type 2 diabetes	1.29	1.11	1.5	4	Amand F Schmidt 2017 (14)	
+Smoking initiation	Type 2 diabetes	1.29	1.2	1.38	356	Yiming Jia MD 2022 (34)	p = 6.41 × 10?¹²
+Alcohol intake	Type 2 diabetes	1.3	1.06	1.58	9	Meiling Liu 2022 (35)	p = 1.20 × 10?²
+Night shift	Type 2 diabetes	1.31	1.01	1.7	29	Cao et al. 2024 (49)	p = 4.60 × 10?²
+Phone use	Type 2 diabetes	1.31	1.04	1.64	49	Zhengqi Qiu 2024 (40)	p = 2.07 × 10?¹
+Coffee consumption	Type 2 diabetes	1.34	1.14	1.56	35	M Abdullah Said 2020 (18)	p = 2.78 × 10??
+Denture use	Type 2 diabetes	1.41	1.17	1.72	54	Yunan Liu 2023 (37)	p = 3.10 × 10?³
+Smoking	Type 2 diabetes	1.42	1.05	1.9	127	Yanna Chi 2022 (30)	p = 4.80 × 10?²
+Smoking history	Type 2 diabetes	1.42	1.22	1.64	118	Reed et al. 2025 (44)	p = 3.82 × 10??
+Screen time	Type 2 diabetes	1.45	1.3	1.62	152	Shuai Yuan 2023 (6)	p = 7.62 × 10?¹¹
+Driving	Type 2 diabetes	1.73	0.4	7.38		Zhong et al. 2025 (42)	p = 4.60 × 10?¹
+Smoking cessation	Type 2 diabetes	1.75	0.92	3.33	1	Renyu Ding 2018 (31)	p = 9.00 × 10?²
+Napping	Type 2 diabetes	1.76	1.21	2.5	54	Hu et al. 2025 (45)	p = 3.00 × 10?³
+Beef intake	Type 2 diabetes	1.8	0.87	3.75		Guangling Li 2024 (41)	p = 1.14 × 10?¹
+Television watching	Type 2 diabetes	1.82	1.48	2.11		Zhong et al. 2025 (42)	p < 0.001
+Coffee consumption	Type 2 diabetes	1.94	1.01	3.71	33	Jiaxi Fang  2023 (16)	p = 4.50 × 10?²
+Television watching	Type 2 diabetes	1.94	1.6	2.36	111	Dongze Chen 2022 (12)	p = 3.74 × 10?¹¹
+Coffee caffeine	Type 2 diabetes	1.95	1.54	2.46	23	M Abdullah Said 2020 (18)	p = 2.37 × 10??
+Protein intake	Type 2 diabetes	2.24	1.35	3.73	2	Renyu Ding 2018 (31)	p = 2.00 × 10?³
+Frailty	Type 2 diabetes	2.33	1.66	3.26	63	Gao et al. 2025(47)	p < 0.001
+Television watching	Type 2 diabetes	2.35	1.91	2.89	89	Ming-Gang Deng 2022 (9)	p < 0.0001
+Television watching	Type 2 diabetes	2.39	1.9	3	145	Zhengqi Qiu 2024 (40)	p = 1.13 × 10?¹³
+Coffee consumption	Type 2 diabetes	2.79	0.93	8.39	35	Jiaxi Fang  2023 (16)	p = 4.70 × 10?²
+Fasting glucose	Type 2 diabetes	2.79	1.96	4.98	17	Guoyi Yang  2022 (25)	p = 1.00 × 10?³
+Driving	Type 2 diabetes	3.07	0.84	11.14	6	Ming-Gang Deng 2022  (9)	p = 8.80 × 10?²
+Fasting glucose	Type 2 diabetes	7.36	4.12	10.98	22	Guoyi Yang  2022 (25)	p = 3.00 × 10?³
+PM2.5	Type 2 diabetes	14.2	1.46	137.9		Chen-Xi Liu 2024 (38)	p = 2.20 × 10?²

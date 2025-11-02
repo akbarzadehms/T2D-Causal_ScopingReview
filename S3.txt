@@ -1,0 +1,284 @@
+Exposure	Outcome	OR	Lower	Upper	SNPs	First_author_year_of_publication_Ref	P-Value
+Trimethylamine N-oxide	Type 2 diabetes	0.96	0.59	1.57	9		p = 8.63 × 10?¹
+Carnitine	Type 2 diabetes	0.88	0.59	1.32	12		p = 5.45 × 10?¹
+Choline	Type 2 diabetes	1.84	1	3.42	8		p = 5.00 × 10?²
+Betaine	Type 2 diabetes	0.68	0.48	0.95	15		p = 2.30 × 10?²
+Type 2 diabetes	Trimethylamine N-oxide	1.14	1.06	1.22			p < 0.0001
+Type 2 diabetes	Betaine	0.9	0.84	0.96			p = 2.00 × 10?³
+Type 2 diabetes	Carnitine	1.06	0.98	1.13			p = 1.33 × 10?¹
+Type 2 diabetes	Choline	1.001	0.93	1.07			p = 9.69 × 10?¹
+Type 2 diabetes	Gallstone disease	1.13	1.09	1.17	558	"Shuai Yuan, 2022 (176)"	p < 0.001
+Non-alcoholic fatty liver disease	Type 2 diabetes	1.3	1.21	1.39	2	"Zhipeng Liu, 2020 (178)"	p = 8.30 × 10?¹?
+Non-alcoholic fatty liver disease	Type 2 diabetes	1.06	1.03	1.09	2	"Zhipeng Liu, 2020 (178)"	p = 2.80 × 10??
+Type 2 diabetes	Non-alcoholic fatty liver disease	1.1	1	1.2	315	"Zhipeng Liu, 2020 (178)"	p = 1.67 × 10?³
+Liver fat	Type 2 diabetes	1.27	1.08	1.49	10	"Susan Martin, 2022 (179)"	p = 1.80 × 10?²
+Liver volume	Type 2 diabetes	1.37	0.82	2.27	11	"Susan Martin, 2022 (179)"	p = 2.60 × 10?¹
+Pancreatic fat	Type 2 diabetes	1.02	0.76	1.37	9	"Susan Martin, 2022 (179)"	p = 9.00 × 10?¹
+Pancreatic volume	Type 2 diabetes	0.76	0.62	0.94	17	"Susan Martin, 2022 (179)"	p = 2.00 × 10?²
+Childhood body size	Type 2 diabetes	1.16	0.74	1.82	190		p = 5.20 × 10?¹
+Adult body size	Type 2 diabetes	2.8	1.89	4.15	323		p = 3.96 × 10??
+Alanine aminotransferase	Type 2 diabetes	1.27	1.15	1.4	4	"N. Maneka G. De Silva, 2019 (181)"	p < 0.05
+Aspartate aminotransferase	Type 2 diabetes	1.06	0.97	1.17	3	"N. Maneka G. De Silva, 2019 (181)"	p < 0.06
+Alkaline phosphatase	Type 2 diabetes	1.25	1.1	1.43	15	"N. Maneka G. De Silva, 2019 (181)"	p < 0.07
+Gamma-glutamyl transferase	Type 2 diabetes	1.61	1.15	2.26	28	"N. Maneka G. De Silva, 2019 (181)"	p < 0.08
+Type 2 diabetes	Alanine aminotransferase	0.06	0.02	0.09		"N. Maneka G. De Silva, 2019 (181)"	p < 0.09
+Type 2 diabetes	Aspartate aminotransferase	1.01	-0.04	0.07		"N. Maneka G. De Silva, 2019 (181)"	p > 0.10
+Type 2 diabetes	Alkaline phosphatase	0.96	-0.11	0.02		"N. Maneka G. De Silva, 2019 (181)"	p > 0.11
+Type 2 diabetes	Gamma-glutamyl transferase	1.03	-0.01	0.06		"N. Maneka G. De Silva, 2019 (181)"	p > 0.12
+Non-alcoholic fatty liver disease	Type 2 diabetes	1.003	1.002	1.004	64	"Yuetian Yu, 2023 (182)"	p < 0.001
+Type 2 diabetes	Non-alcoholic fatty liver disease	28.1	0.7	1143	64	"Yuetian Yu, 2023 (182)"	p = 8.00 × 10?²
+Gut microbiota (Acidaminococcaceae)	Type 2 diabetes	1.17	1.04	1.31	3	"Kun Xiang, 2022 (183)"	p = 2.24 × 10?¹
+Gut microbiota (Actinomycetaceae)	Type 2 diabetes	1.02	0.86	1.22	3	"Kun Xiang, 2022 (183)"	p = 9.39 × 10?¹
+Gut microbiota (Alcaligenaceae)	Type 2 diabetes	0.92	0.83	1.02	12	"Kun Xiang, 2022 (183)"	p = 7.00 × 10?¹
+Gut microbiota (Bacteroidaceae)	Type 2 diabetes	0.99	0.88	1.11	12	"Kun Xiang, 2022 (183)"	p = 7.00 × 10?¹
+Gut microbiota (Bacteroidales S24-7)	Type 2 diabetes	0.96	0.9	1.02	6	"Kun Xiang, 2022 (183)"	p = 7.35 × 10?¹
+Gut microbiota (Bifidobacteriaceae)	Type 2 diabetes	1	0.94	1.07	14	"Kun Xiang, 2022 (183)"	p = 9.63 × 10?¹
+Gut microbiota (Christensenellaceae)	Type 2 diabetes	0.98	0.93	1.03	12	"Kun Xiang, 2022 (183)"	p = 7.41 × 10?¹
+Gut microbiota (Clostridiaceae)	Type 2 diabetes	0.9	0.79	1.03	8	"Kun Xiang, 2022 (183)"	p = 7.00 × 10?¹
+Gut microbiota (Coriobacteriaceae)	Type 2 diabetes	1.07	0.94	1.2	12	"Kun Xiang, 2022 (183)"	p = 7.41 × 10?¹
+Gut microbiota (Defluviitaleaceae)	Type 2 diabetes	0.97	0.9	1.04	9	"Kun Xiang, 2022 (183)"	p = 7.41 × 10?¹
+Gut microbiota (Desulfovibrionaceae)	Type 2 diabetes	1.06	0.94	1.21	10	"Kun Xiang, 2022 (183)"	p = 9.58 × 10?¹
+Gut microbiota (Enterobacteriaceae)	Type 2 diabetes	0.97	0.89	1.06	8	"Kun Xiang, 2022 (183)"	p = 7.41 × 10?¹
+Gut microbiota (Erysipelotrichaceae)	Type 2 diabetes	1.02	0.9	1.16	11	"Kun Xiang, 2022 (183)"	p = 8.81 × 10?¹
+Gut microbiota (Lachnospiraceae)	Type 2 diabetes	1.01	0.93	1.1	13	"Kun Xiang, 2022 (183)"	p = 9.39 × 10?¹
+Gut microbiota (Lactobacillaceae)	Type 2 diabetes	1.02	0.95	1.1	6	"Kun Xiang, 2022 (183)"	p = 7.41 × 10?¹
+Gut microbiota (Methanobacteriaceae)	Type 2 diabetes	0.97	0.91	1.04	9	"Kun Xiang, 2022 (183)"	p = 7.41 × 10?¹
+Gut microbiota (Oxalobacteraceae)	Type 2 diabetes	1.05	0.99	1.11	10	"Kun Xiang, 2022 (183)"	p = 7.00 × 10?¹
+Gut microbiota (Pasteurellaceae)	Type 2 diabetes	1	0.95	1.07	11	"Kun Xiang, 2022 (183)"	p = 9.58 × 10?¹
+Gut microbiota (Peptococcaceae)	Type 2 diabetes	1.02	0.94	1.11	8	"Kun Xiang, 2022 (183)"	p = 7.97 × 10?¹
+Gut microbiota (Peptostreptococcaceae)	Type 2 diabetes	1.03	0.94	1.12	12	"Kun Xiang, 2022 (183)"	p = 7.41 × 10?¹
+Gut microbiota (Porphyromonadaceae)	Type 2 diabetes	0.96	0.87	1.06	10	"Kun Xiang, 2022 (183)"	p = 7.41 × 10?¹
+Gut microbiota (Prevotellaceae)	Type 2 diabetes	0.98	0.92	1.04	13	"Kun Xiang, 2022 (183)"	p = 7.41 × 10?¹
+Gut microbiota (Rhodospirillaceae)	Type 2 diabetes	1.03	0.96	1.09	9	"Kun Xiang, 2022 (183)"	p = 7.41 × 10?¹
+Gut microbiota (Rikenellaceae)	Type 2 diabetes	0.94	0.87	1.01	16	"Kun Xiang, 2022 (183)"	p = 7.00 × 10?¹
+Gut microbiota (Ruminococcaceae)	Type 2 diabetes	0.96	0.85	1.08	4	"Kun Xiang, 2022 (183)"	p = 7.41 × 10?¹
+Gut microbiota (Streptococcaceae)	Type 2 diabetes	1.02	0.94	1.11	8	"Kun Xiang, 2022 (183)"	p = 7.97 × 10?¹
+Gut microbiota (Veillonellaceae)	Type 2 diabetes	0.94	0.87	1.02	16	"Kun Xiang, 2022 (183)"	p = 7.00 × 10?¹
+Gut microbiota (Verrucomicrobiaceae)	Type 2 diabetes	1.04	0.93	1.18	8	"Kun Xiang, 2022 (183)"	p = 7.41 × 10?¹
+Gut microbiota (Lactobacillus)	Type 2 diabetes	0.97	0.95	0.99	11	Zhou et al. 2025 (184)	p = 7.00 × 10?³
+Gut microbiota (Acidaminococcaceae)	Type 2 diabetes	0.94	0.75	1.19	3	Zhou et al. 2025 (184)	p = 6.14 × 10?¹
+Gut microbiota (Actinomycetaceae)	Type 2 diabetes	1.07	0.97	1.19	4	Zhou et al. 2025 (184)	p = 1.91 × 10?¹
+Gut microbiota (Alcaligenaceae)	Type 2 diabetes	0.97	0.86	1.09	12	Zhou et al. 2025 (184)	p = 5.74 × 10?¹
+Gut microbiota (Bacteroidaceae)	Type 2 diabetes	0.98	0.88	1.1	8	Zhou et al. 2025 (184)	p = 7.66 × 10?¹
+Gut microbiota (Bacteroidales S24-7)	Type 2 diabetes	1.03	0.95	1.12	6	Zhou et al. 2025 (184)	p = 4.61 × 10?¹
+Gut microbiota (Bifidobacteriaceae)	Type 2 diabetes	1.01	0.91	1.13	7	Zhou et al. 2025 (184)	p = 8.32 × 10?¹
+Gut microbiota (Christensenellaceae)	Type 2 diabetes	1.05	0.86	1.29	8	Zhou et al. 2025 (184)	p = 6.21 × 10?¹
+Gut microbiota (Clostridiaceae)	Type 2 diabetes	0.94	0.83	1.07	7	Zhou et al. 2025 (184)	p = 3.43 × 10?¹
+Gut microbiota (Coriobacteriaceae)	Type 2 diabetes	1.02	0.89	1.17	5	Zhou et al. 2025 (184)	p = 7.47 × 10?¹
+Gut microbiota (Defluviitaleaceae)	Type 2 diabetes	1.02	0.93	1.12	6	Zhou et al. 2025 (184)	p = 6.73 × 10?¹
+Gut microbiota (Desulfovibrionaceae)	Type 2 diabetes	1.11	0.99	1.25	9	Zhou et al. 2025 (184)	p = 8.40 × 10?²
+Gut microbiota (Enterobacteriaceae)	Type 2 diabetes	1.13	0.94	1.35	6	Zhou et al. 2025 (184)	p = 1.91 × 10?¹
+Gut microbiota (Erysipelotrichaceae)	Type 2 diabetes	0.99	0.85	1.16	7	Zhou et al. 2025 (184)	p = 9.07 × 10?¹
+Gut microbiota (Lachnospiraceae)	Type 2 diabetes	0.97	0.88	1.08	9	Zhou et al. 2025 (184)	p = 5.78 × 10?¹
+Gut microbiota (Lactobacillaceae)	Type 2 diabetes	0.98	0.9	1.06	6	Zhou et al. 2025 (184)	p = 5.79 × 10?¹
+Gut microbiota (Methanobacteriaceae)	Type 2 diabetes	0.97	0.88	1.06	6	Zhou et al. 2025 (184)	p = 4.69 × 10?¹
+Gut microbiota (Oxalobacteraceae)	Type 2 diabetes	0.98	0.92	1.04	9	Zhou et al. 2025 (184)	p = 4.58 × 10?¹
+Gut microbiota (Pasteurellaceae)	Type 2 diabetes	1.02	0.9	1.15	7	Zhou et al. 2025 (184)	p = 7.36 × 10?¹
+Gut microbiota (Peptococcaceae)	Type 2 diabetes	1.02	0.91	1.14	4	Zhou et al. 2025 (184)	p = 7.62 × 10?¹
+Gut microbiota (Peptostreptococcaceae)	Type 2 diabetes	1	0.89	1.13	9	Zhou et al. 2025 (184)	p = 9.51 × 10?¹
+Gut microbiota (Porphyromonadaceae)	Type 2 diabetes	0.91	0.81	1.03	7	Zhou et al. 2025 (184)	p = 1.44 × 10?¹
+Gut microbiota (Prevotellaceae)	Type 2 diabetes	1.04	0.96	1.12	12	Zhou et al. 2025 (184)	p = 3.81 × 10?¹
+Gut microbiota (Rhodospirillaceae)	Type 2 diabetes	0.98	0.91	1.05	9	Zhou et al. 2025 (184)	p = 5.07 × 10?¹
+Gut microbiota (Rikenellaceae)	Type 2 diabetes	1.02	0.94	1.11	13	Zhou et al. 2025 (184)	p = 6.54 × 10?¹
+Gut microbiota (Ruminococcaceae)	Type 2 diabetes	1.01	0.86	1.18	3	Zhou et al. 2025 (184)	p = 9.48 × 10?¹
+Gut microbiota (Streptococcaceae)	Type 2 diabetes	1.17	1.04	1.31	9	Zhou et al. 2025 (184)	p = 9.00 × 10?³
+Gut microbiota (Veillonellaceae)	Type 2 diabetes	1.01	0.92	1.1	12	Zhou et al. 2025 (184)	p = 8.82 × 10?¹
+Gut microbiota (Verrucomicrobiaceae)	Type 2 diabetes	1.03	0.86	1.24	6	Zhou et al. 2025 (184)	p = 7.49 × 10?¹
+Type 2 diabetes	Type 2 diabetes	1.014	0.997	1.031	120	"Yi Wang, 2022 (185)"	p = 1.08 × 10?¹
+Periodontitis	Periodontitis	1.302	1.039	1.634	12	"Yi Wang, 2022 (185)"	p = 2.20 × 10?²
+ Aggregatibacter	Type 2 diabetes	0.96	0.926	0.996		"Qian Yang, 2018 (186)"	p = 3.20 × 10?²
+Gut microbiota (Acidaminococcus)	Type 2 diabetes	0.997	0.995	1.9	5	"Qian Yang, 2018 (186)"	p = 1.91 × 10?¹
+Gut microbiota (Bifidobacterium)	Type 2 diabetes	0.986	0.91	1.067	1	"Qian Yang, 2018 (186)"	p = 2.70 × 10?¹
+Gallstone disease	Type 2 diabetes	1.17	0.9	1.52	8	"Fei Wang, 2019 (187)"	p = 2.50 × 10?¹
+Gut microbiota (Flavonifractor)	Type 2 diabetes	0.995	0.993	0.998	3	"Kewang Sun, 2023 (188)"	p = 4.00 × 10?³
+Gut microbiota (Haemophilus)	Type 2 diabetes	0.995	0.993	0.998	4	"Kewang Sun, 2023 (188)"	p = 8.00 × 10?³
+Gut microbiota (Clostridiaceae)	Type 2 diabetes	1.003	1.001	1.005	7	"Kewang Sun, 2023 (188)"	p = 1.20 × 10?²
+Gut microbiota (Actinomyces)	Type 2 diabetes	1.003	1.001	1.005	4	"Kewang Sun, 2023 (188)"	p = 4.00 × 10?³
+Gut microbiota (Candidatus Soleaferrea)	Type 2 diabetes	1.001	1	1.002	9	"Kewang Sun, 2023 (188)"	p = 1.60 × 10?¹
+Gut microbiota (Allisonella)	Type 2 diabetes	0.998	0.997	0.999	8	"Kewang Sun, 2023 (188)"	p = 3.30 × 10?²
+Gut microbiota (Alistipes)	Type 2 diabetes	0.998	0.996	1	8	"Kewang Sun, 2023 (188)"	p = 1.27 × 10?¹
+G	Type 2 diabetes	1.003	1	1.005	8	"Kewang Sun, 2023 (188)"	p = 4.30 × 10?²
+Type 2 diabetes	Type 2 diabetes	1.182	1.125	1.243	54	"Kewang Sun, 2023 (188)"	p = 5.40 × 10?¹¹
+Gallstone disease	Type 2 diabetes	2.68	1.48	4.86	4	"Junxi Liu, 2016 (189)"	p < 0.01
+Alanine aminotransferase	Type 2 diabetes	0.91	0.7	1.18	14	"Junxi Liu, 2016 (189)"	p > 0.05
+Alanine aminotransferase	Type 2 diabetes	0.83	0.71	0.97	26	"Junxi Liu, 2016 (189)"	p > 0.05
+Aspartate aminotransferase	Colorectal cancer	1.001	0.999	1.002	153	"Xiang Xiao, 2024 (190)"	p = 3.73 × 10?¹
+Aspartate aminotransferase	Inflammatory bowel disease	0.885	0.818	0.958	126	"Xiang Xiao, 2024 (190)"	p = 2.00 × 10?³
+Alkaline phosphatase	Ulcerative colitis	0.887	0.812	0.968	127	"Xiang Xiao, 2024 (190)"	p = 7.00 × 10?³
+Alkaline phosphatase	Crohn’s disease	0.897	0.793	1.016	133	"Xiang Xiao, 2024 (190)"	p = 8.70 × 10?²
+Gamma-glutamyl transferase	Type 2 diabetes	0.955	0.837	1.089	10	"Xiang Xiao, 2024 (190)"	p = 4.92 × 10?¹
+Gamma-glutamyl transferase	Type 2 diabetes	1	0.955	1.047	7	"Xiang Xiao, 2024 (190)"	p = 9.99 × 10?¹
+Type 2 diabetes	Type 2 diabetes	1.007	0.963	1.053	7	"Xiang Xiao, 2024 (190)"	p = 7.49 × 10?¹
+Type 2 diabetes	Type 2 diabetes	1.007	0.95	1.068	1	"Xiang Xiao, 2024 (190)"	p = 8.15 × 10?¹
+Type 2 diabetes	Gallstone disease	1.08	1.05	1.11	334	"Peijing Yan, 2024 (191)"	p = 4.60 × 10??
+Type 2 diabetes	Type 2 diabetes	1.02	0.96	1.08	57	"Peijing Yan, 2024 (191)"	p = 4.80 × 10?¹
+Type 2 diabetes	Diabetic retinopathy	1.489	1.206	1.772	83	"Yang Li, 2024 (192)"	p = 6.00 × 10?³
+Gut microbiota (Lachnoclostridium)	Diabetic nephropathy	1.111	0.759	1.464	87	"Yang Li, 2024 (192)"	p = 5.58 × 10?¹
+Gut microbiota (Streptococcus)	Diabetic retinopathy	1.376	1.115	1.638	61	"Yang Li, 2024 (192)"	p = 1.70 × 10?²
+Gut microbiota (Actinomyces)	Diabetic nephropathy	1.032	0.72	1.344	66	"Yang Li, 2024 (192)"	p = 8.45 × 10?¹
+Gut microbiota (Streptococcaceae)	Diabetic retinopathy	0.989	0.848	1.13	190	"Yang Li, 2024 (192)"	p = 8.79 × 10?¹
+Gut microbiota (unknown genus 2041)	Diabetic nephropathy	0.95	0.778	1.121	192	"Yang Li, 2024 (192)"	p = 5.56 × 10?¹
+Type 2 diabetes	Diabetic retinopathy	1.038	0.834	1.241	98	"Yang Li, 2024 (192)"	p = 7.21 × 10?¹
+Type 2 diabetes	Diabetic nephropathy	0.969	0.685	1.253	96	"Yang Li, 2024 (192)"	p = 8.29 × 10?¹
+Type 2 diabetes	Gut microbiota (Butyrivibrio)	-0.096	-0.169	-0.022	124	"Zhaopei Zeng, 2024 (193)"	p = 1.10 × 10?²
+Type 2 diabetes	Gut microbiota (Catenibacterium)	0.096	0.02	0.172	114	"Zhaopei Zeng, 2024 (193)"	p = 1.30 × 10?²
+Type 2 diabetes	Gut microbiota (Olsenella)	0.074	0.008	0.14	124	"Zhaopei Zeng, 2024 (193)"	p = 2.70 × 10?²
+Type 2 diabetes	Gut microbiota (Oxalobacteraceae)	0.061	0.002	0.119	125	"Zhaopei Zeng, 2024 (193)"	p = 4.30 × 10?²
+Type 2 diabetes	Gut microbiota (Erysipelotrichaceae UCG003)	0.14	0.004	0.276	14	"Zhaopei Zeng, 2024 (193)"	p = 4.30 × 10?²
+Type 2 diabetes	Type 2 diabetes	0.206	0.095	0.316	8	"Zhaopei Zeng, 2024 (193)"	p < 1 × 10?³²?
+Type 2 diabetes	Type 2 diabetes	0.146	0.046	0.246	11	"Zhaopei Zeng, 2024 (193)"	p = 4.00 × 10?³
+Type 2 diabetes	Type 2 diabetes	0.114	0.023	0.205	5	"Zhaopei Zeng, 2024 (193)"	p = 1.40 × 10?²
+Gut microbiota (Lactobacillales)	Type 2 diabetes	0.093	0.006	0.18	13	"Zhaopei Zeng, 2024 (193)"	p = 3.50 × 10?²
+Type 2 diabetes	Type 2 diabetes	0.099	0.006	0.192	6	"Zhaopei Zeng, 2024 (193)"	p = 3.70 × 10?²
+Alanine aminotransferase	Diverticular disease	1.04	1.01	1.07	497	"Shuai Yuan, 2022 (194)"	p = 7.00 × 10?³
+Non-alcoholic fatty liver disease	Gastroesophageal reflux disease	1.07	1.04	1.1	558	"Shuai Yuan, 2022"	p = 5.73 × 10??
+Aspartate aminotransferase	Non-alcoholic fatty liver disease	1.22	1.15	1.3	497	"Shuai Yuan, 2022 (195)"	p = 4.68 × 10?¹¹
+Liver cT1 (MRI)	Non-alcoholic fatty liver disease	1.19	1.1	1.29	497	"Shuai Yuan, 2022 (195)"	p = 2.78 × 10??
+Alanine aminotransferase	Combined metabolic effect	1.21	1.15	1.27		"Shuai Yuan, 2022 (195)"	p = 7.15 × 10?¹?
+Non-alcoholic fatty liver disease	Gallstone disease	1.13	1.09	1.17	558	"Shuai Yuan, 2022 (176)"	p < 0.001
+Aspartate aminotransferase	Acute pancreatitis	1.042	0.963	1.128			p = 3.04 × 10?¹
+Liver cT1 (MRI)	Chronic pancreatitis	1.121	1.012	1.241			p = 2.90 × 10?²
+Gut microbiota (Lachnoclostridium)	Acute alcoholic pancreatitis	1.004	0.823	1.226			p = 9.68 × 10?¹
+Gut microbiota (Oscillospira)	Acute chronic pancreatitis	1.093	0.958	1.247			p = 1.87 × 10?¹
+Gut microbiota (Roseburia)	Type 2 diabetes	1.26	1.11	1.44	3		p = 3.60 × 10??
+Gut microbiota (Ruminococcaceae UCG003)	Non-alcoholic fatty liver disease	1.508	1.2	1.9	526	"Jiarong Xie, 2023 (198)"	p < 0.001
+Gut microbiota (Ruminococcaceae UCG010)	Type 2 diabetes	1.77	1.5	2.08	174	"Shiu Lun Au Yeung, 2023 (189)"	p < 0.001
+Gut microbiota (Streptococcus)	Type 2 diabetes	1.24	1.12	1.38	42	"Shiu Lun Au Yeung, 2023 (189)"	p < 0.001
+Type 2 diabetes	Type 2 diabetes	1.13	1.02	1.24	196	"Shiu Lun Au Yeung, 2023 (189)"	p < 0.001
+Type 2 diabetes	Type 2 diabetes	1.14	0.95	1.37	5	"Shiu Lun Au Yeung, 2023 (189)"	p < 0.001
+Type 2 diabetes	Type 2 diabetes	1.67	1.39	2.01	168	"Shiu Lun Au Yeung, 2023 (189)"	p < 0.001
+Type 2 diabetes	Type 2 diabetes	1.16	1.04	1.29	41	"Shiu Lun Au Yeung, 2023 (189)"	p < 0.001
+Type 2 diabetes	Type 2 diabetes	1.03	0.92	1.16	203	"Shiu Lun Au Yeung, 2023 (189)"	p < 0.001
+Type 2 diabetes	Type 2 diabetes	1.22	0.94	1.57	5	"Shiu Lun Au Yeung, 2023 (189)"	p = 1.00 × 10?³
+Periodontitis	Type 2 diabetes	1.175	1.011	1.366	4	"Hanjing Li, 2023 (199)"	p = 3.60 × 10?²
+Inflammatory bowel disease	Type 2 diabetes	0.834	0.712	0.976	3	"Hanjing Li, 2023 (199)"	p = 2.40 × 10?²
+Type 2 diabetes	Type 2 diabetes	1.192	1.033	1.374	6	"Hanjing Li, 2023 (199)"	p = 1.60 × 10?²
+Irritable bowel syndrome	Type 2 diabetes	0.885	0.811	0.967	9	"Hanjing Li, 2023 (199)"	p = 7.00 × 10?³
+Periapical disease	Type 2 diabetes	0.812	0.713	0.925	4	"Hanjing Li, 2023 (199)"	p = 2.00 × 10?³
+Type 2 diabetes	Type 2 diabetes	1.199	1.357	1.6	8	"Hanjing Li, 2023 (199)"	p = 4.00 × 10?³
+Inflammatory bowel disease	Gut microbiota (Lachnoclostridium)	1.022	0.99	1.054	108	"Hanjing Li, 2023 (199)"	p = 1.86 × 10?¹
+Ulcerative colitis	Gut microbiota (Oscillospira)	0.995	0.955	1.038	108	"Hanjing Li, 2023 (199)"	p = 8.27 × 10?¹
+Crohn’s disease	Gut microbiota (Roseburia)	1.024	0.992	1.057	108	"Hanjing Li, 2023 (199)"	p = 1.39 × 10?¹
+Inflammatory bowel disease	Gut microbiota (Ruminococcaceae UCG003)	1.034	0.992	1.077	108	"Hanjing Li, 2023 (199)"	p = 1.07 × 10?¹
+Ulcerative colitis	Gut microbiota (Ruminococcaceae UCG010)	1.005	0.967	1.045	108	"Hanjing Li, 2023 (199)"	p = 7.54 × 10?¹
+Crohn’s disease	Gut microbiota (Streptococcus)	0.984	0.952	1.017	108	"Hanjing Li, 2023 (199)"	p = 3.32 × 10?¹
+Ulcerative colitis	Type 2 diabetes	1.01	0.99	1.03	12	"Parth D Shah, 2021 (200)"	
+Crohn’s disease	Type 2 diabetes	0.95	0.885	1.019		"Ling-Tong Tang, 2024 (201)"	p = 1.52 × 10?¹
+Type 2 diabetes	Inflammatory bowel disease	0.846	0.651	1.1		"Ling-Tong Tang, 2024 (201)"	p = 2.12 × 10?¹
+Type 2 diabetes	Type 2 diabetes	0.046	0.001	3.458		"Ling-Tong Tang, 2024 (201)"	p = 1.62 × 10?¹
+Type 2 diabetes	Type 2 diabetes	1.04	1	1.07	16	"Yuqiang Wang, 2024 (202)"	p = 3.30 × 10?²
+Type 2 diabetes	Periapical disease	1.04	0.96	1.14	181	"Yuqiang Wang, 2024 (202)"	p = 3.29 × 10?¹
+Type 2 diabetes	Type 2 diabetes	1.023	1.007	1.039	114	"Yue Niu, 2024 (203)"	p = 4.00 × 10?³
+Type 2 diabetes	Type 2 diabetes	1.024	1.007	1.042	73	"Yue Niu, 2024 (203)"	p = 6.00 × 10?³
+Type 2 diabetes	Type 2 diabetes	1.019	1.004	1.033	100	"Yue Niu, 2024 (203)"	p = 9.00 × 10?³
+Type 2 diabetes	Type 2 diabetes	0.991	0.975	1.008	12	"Yue Niu, 2024 (203)"	p = 2.99 × 10?¹
+Type 2 diabetes	Type 2 diabetes	0.996	0.977	1.014	7	"Yue Niu, 2024 (203)"	p = 6.45 × 10?¹
+Type 2 diabetes	Type 2 diabetes	0.998	0.985	1.011	12	"Yue Niu, 2024 (203)"	p = 7.79 × 10?¹
+Type 2 diabetes	Type 2 diabetes	1.016	0.993	1.039	26	"Guangyi Xu, 2024 (204)"	p = 1.81 × 10?¹
+Type 2 diabetes	Type 2 diabetes	1.017	0.996	1.039	37	"Guangyi Xu, 2024 (204)"	p = 1.12 × 10?¹
+Type 2 diabetes	Ulcerative colitis	0.882	0.826	0.942	114	"Guangyi Xu, 2024 (204)"	p < 0.001
+Gut microbiota (Actinomyces)	Crohn’s disease	0.955	0.877	1.038	110	"Guangyi Xu, 2024 (204)"	p = 2.76 × 10?¹
+Gut microbiota (Bilophila)	Non-alcoholic fatty liver disease	1.37	1.23	1.52	131	"Yue Zhao, 2024 (205)"	p < 0.0001
+Gut microbiota (Lachnoclostridium)	Hepatocellular carcinoma	1.27	1.05	1.53	169	"Yue Zhao, 2024 (205)"	p = 1.50 × 10?²
+Gut microbiota (Ruminococcus gnavus)	Viral hepatitis	1.12	1.03	1.22	173	"Yue Zhao, 2024 (205)"	p = 9.80 × 10?³
+Gut microbiota (Streptococcus)	Chronic hepatitis B	1.19	1.04	1.37	173	"Yue Zhao, 2024 (205)"	p = 1.34 × 10?²
+Unknown genus	Chronic hepatitis C	1.04	0.8	1.36	178	"Yue Zhao, 2024 (205)"	p = 7.77 × 10?¹
+Gut microbiota (Eubacterium oxidoreducens)	Alanine aminotransferase	0.98	0.96	0.99	65	"Yue Zhao, 2024 (205)"	p = 2.10 × 10?³
+Gut microbiota (Oscillospira)	Aspartate aminotransferase	0.97	0.95	0.98	66	"Yue Zhao, 2024 (205)"	p < 0.0001
+Gut microbiota (Ruminococcaceae UCG003)	Hepatocellular carcinoma	0.95	0.87	1.04	83	"Yue Zhao, 2024 (205)"	p = 2.59 × 10?¹
+Gut microbiota (Ruminococcaceae UCG010)	Viral hepatitis	0.81	0.56	1.16	85	"Yue Zhao, 2024 (205)"	p = 2.42 × 10?¹
+Gut microbiota (Sellimonas)	Chronic hepatitis B	0.94	0.87	1.02	86	"Yue Zhao, 2024 (205)"	p = 1.70 × 10?¹
+Type 2 diabetes	Chronic hepatitis C	0.93	0.89	0.97	86	"Yue Zhao, 2024 (205)"	p = 2.70 × 10?³
+Type 2 diabetes	Type 2 diabetes	1.1	1.01	1.19	6	"Siyuan Song, 2024 (75)"	p = 2.50 × 10?²
+Type 2 diabetes	Type 2 diabetes	1.11	1	1.22	9	"Siyuan Song, 2024 (75)"	p = 4.60 × 10?²
+Type 2 diabetes	Type 2 diabetes	1.22	1.1	1.35	9	"Siyuan Song, 2024 (75)"	p = 2.00 × 10??
+Type 2 diabetes	Type 2 diabetes	1.07	1	1.13	9	"Siyuan Song, 2024 (75)"	p = 4.60 × 10?²
+Type 2 diabetes	Type 2 diabetes	1.16	1.05	1.28	11	"Siyuan Song, 2024 (75)"	p = 4.10 × 10?³
+Type 2 diabetes	Type 2 diabetes	1.1	1.01	1.21	6	"Siyuan Song, 2024 (75)"	p = 3.70 × 10?²
+Type 2 diabetes	Type 2 diabetes	0.89	0.79	0.99	3	"Siyuan Song, 2024 (75)"	p = 3.60 × 10?²
+Type 2 diabetes	Type 2 diabetes	0.85	0.73	0.99	6	"Siyuan Song, 2024 (75)"	p = 3.20 × 10?²
+Type 2 diabetes	Type 2 diabetes	0.91	0.83	0.99	9	"Siyuan Song, 2024 (75)"	p = 2.90 × 10?²
+Leucine	Type 2 diabetes	0.81	0.71	0.93	4	"Siyuan Song, 2024 (75)"	p = 1.70 × 10?³
+Tyrosine	Type 2 diabetes	0.95	0.9	1	6	"Siyuan Song, 2024 (75)"	p = 3.70 × 10?²
+Carnitine	Gut microbiota (Actinomyces)	0.99	0.94	1.04		"Siyuan Song, 2024 (75)"	p = 6.73 × 10?¹
+O-methylascorbate (X-11593)	Gut microbiota (Bilophila)	1.01	0.97	1.05		"Siyuan Song, 2024 (75)"	p = 7.30 × 10?¹
+1-arachidonoylglycerophosphocholine	Gut microbiota (Eubacterium oxidoreducens)	1.01	0.97	1.05		"Siyuan Song, 2024 (75)"	p = 7.30 × 10?¹
+Free cholesterol	Gut microbiota (Lachnoclostridium)	1.02	0.99	1.05		"Siyuan Song, 2024 (75)"	p = 2.67 × 10?¹
+IDL cholesterol (total)	Gut microbiota (Oscillospira)	1.02	0.99	1.05		"Siyuan Song, 2024 (75)"	p = 2.67 × 10?¹
+IDL free cholesterol	Gut microbiota (Ruminococcaceae UCG003)	1.02	0.98	1.07		"Siyuan Song, 2024 (75)"	p = 2.80 × 10?¹
+IDL lipids (total)	Gut microbiota (Ruminococcaceae UCG010)	1.01	0.97	1.05		"Siyuan Song, 2024 (75)"	p = 7.67 × 10?¹
+IDL particle concentration	Gut microbiota (Ruminococcus gnavus)	1	0.95	1.06		"Siyuan Song, 2024 (75)"	p = 9.83 × 10?¹
+IDL phospholipids	Gut microbiota (Sellimonas)	1.02	0.95	1.1		"Siyuan Song, 2024 (75)"	p = 5.98 × 10?¹
+Large LDL free cholesterol	Gut microbiota (Streptococcus)	0.98	0.95	1.02		"Siyuan Song, 2024 (75)"	p = 3.17 × 10?¹
+Medium LDL cholesterol	Type 2 diabetes	4.33	1.08	17.36	12	"Siyuan Song, 2024 (75)"	p = 3.90 × 10?²
+Serum total cholesterol	Type 2 diabetes	0.27	0.1	0.73	3	"Siyuan Song, 2024 (75)"	p = 9.30 × 10?³
+Sphingomyelins	Type 2 diabetes	2.49	1.04	5.97	18	"Siyuan Song, 2024 (75)"	p = 4.10 × 10?²
+Non-alcoholic fatty liver disease	Type 2 diabetes	0.39	0.19	0.8	4	"Siyuan Song, 2024 (75)"	p = 9.90 × 10?³
+Type 2 diabetes	Type 2 diabetes	1.5	1.17	1.92	3	"Siyuan Song, 2024 (75)"	p = 1.50 × 10?³
+Non-alcoholic fatty liver disease	Type 2 diabetes	0.89	0.82	0.97	6	"Siyuan Song, 2024 (75)"	p = 7.20 × 10?³
+Non-alcoholic fatty liver disease	Type 2 diabetes	0.9	0.83	0.97	10	"Siyuan Song, 2024 (75)"	p = 8.70 × 10?³
+Non-alcoholic fatty liver disease	Type 2 diabetes	0.89	0.82	0.96	11	"Siyuan Song, 2024 (75)"	p = 3.50 × 10?³
+Non-alcoholic fatty liver disease	Type 2 diabetes	0.91	0.84	0.98	11	"Siyuan Song, 2024 (75)"	p = 9.50 × 10?³
+Non-alcoholic fatty liver disease	Type 2 diabetes	0.91	0.84	0.99	10	"Siyuan Song, 2024 (75)"	p = 2.00 × 10?²
+Type 2 diabetes	Type 2 diabetes	0.9	0.84	0.97	12	"Siyuan Song, 2024 (75)"	p = 8.70 × 10?³
+Type 2 diabetes	Type 2 diabetes	0.91	0.84	1	10	"Siyuan Song, 2024 (75)"	p = 4.60 × 10?²
+Type 2 diabetes	Type 2 diabetes	0.91	0.83	0.99	10	"Siyuan Song, 2024 (75)"	p = 3.80 × 10?²
+Type 2 diabetes	Type 2 diabetes	0.78	0.64	0.94	11	"Siyuan Song, 2024 (75)"	p = 1.00 × 10?²
+Type 2 diabetes	Type 2 diabetes	0.86	0.74	1	4	"Siyuan Song, 2024 (75)"	p = 4.90 × 10?²
+Type 2 diabetes	Type 2 diabetes	1.109	1.001	1.228	17	"Xuetong Ni, 2023 (206)"	p = 4.71 × 10?²
+Type 2 diabetes	Non-alcoholic fatty liver disease	1	0.997	1.004	49	"Xuetong Ni, 2023 (206)"	p = 9.19 × 10?¹
+Type 2 diabetes	Diabetic ketoacidosis	1.126	0.61	2.08	64/77	"Ningyuan Liu, 2023 (207)"	p = 7.04 × 10?¹
+Type 2 diabetes	Diabetic kidney disease	1.074	0.893	1.291	63/77	"Ningyuan Liu, 2023 (207)"	p = 4.50 × 10?¹
+Type 2 diabetes	Early diabetic kidney disease	1.151	0.937	1.413	63/77	"Ningyuan Liu, 2023 (207)"	p = 1.80 × 10?¹
+Type 2 diabetes	Late diabetic kidney disease	0.996	0.774	1.281	61/77	"Ningyuan Liu, 2023 (207)"	p = 9.73 × 10?¹
+Type 2 diabetes	Diabetic retinopathy	1.315	1.01	1.712	64/77	"Ningyuan Liu, 2023 (207)"	p = 4.20 × 10?²
+Type 2 diabetes	Type 2 diabetes	1.182	1.125	1.243	54	"Zhenqiu Liu, 2022 (208)"	p = 5.40 × 10?¹¹
+Type 2 diabetes	Non-alcoholic fatty liver disease	1.508	1.2	1.9	526	"Jiarong Xie, 2023 (198)"	p < 0.001
+Type 2 diabetes	Gastroesophageal reflux disease	1.06	1.03	1.09	231	"Jie Chen, 2023 (209)"	p < 0.001
+Type 2 diabetes	Esophageal cancer	0.97	0.86	1.1	231	"Jie Chen, 2023 (209)"	p = 6.74 × 10?¹
+Type 2 diabetes	Gastric ulcer	1.12	1.07	1.17	231	"Jie Chen, 2023 (209)"	p < 0.001
+Type 2 diabetes	Acute gastritis	1.11	1.03	1.2	231	"Jie Chen, 2023 (209)"	p = 5.00 × 10?³
+Type 2 diabetes	Chronic gastritis	1.07	1.01	1.13	231	"Jie Chen, 2023 (209)"	p = 1.30 × 10?²
+Type 2 diabetes	Gastric cancer	1.02	0.92	1.13	231	"Jie Chen, 2023 (209)"	p = 7.28 × 10?¹
+Type 2 diabetes	Irritable bowel syndrome	1.08	1.03	1.12	231	"Jie Chen, 2023 (209)"	p < 0.001
+Type 2 diabetes	Celiac disease	0.97	0.9	1.03	231	"Jie Chen, 2023 (209)"	p = 3.18 × 10?¹
+Type 2 diabetes	Crohn’s disease	0.96	0.91	1.01	231	"Jie Chen, 2023 (209)"	p = 9.70 × 10?²
+Type 2 diabetes	Ulcerative colitis	0.93	0.89	0.97	231	"Jie Chen, 2023 (209)"	p < 0.001
+Type 2 diabetes	Diverticular disease	1.04	1.01	1.07	231	"Jie Chen, 2023 (209)"	p = 5.00 × 10?³
+Type 2 diabetes	Colorectal cancer	1	0.95	1.05	231	"Jie Chen, 2023 (209)"	p = 9.00 × 10?¹
+Type 2 diabetes	Acute pancreatitis	1.08	1.02	1.14	231	"Jie Chen, 2023 (209)"	p = 9.00 × 10?³
+Type 2 diabetes	Chronic pancreatitis	1.05	0.97	1.15	231	"Jie Chen, 2023 (209)"	p = 2.11 × 10?¹
+Type 2 diabetes	Pancreatic cancer	1.09	0.99	1.19	231	"Jie Chen, 2023 (209)"	p = 8.00 × 10?²
+Type 2 diabetes	Cholelithiasis	1.09	1.05	1.12	231	"Jie Chen, 2023 (209)"	p < 0.001
+Type 2 diabetes	Cholecystitis	1.09	1.05	1.13	231	"Jie Chen, 2023 (209)"	p < 0.001
+Type 2 diabetes	Cholangitis	0.98	0.89	1.08	231	"Jie Chen, 2023 (209)"	p = 7.11 × 10?¹
+Type 2 diabetes	Non-alcoholic fatty liver disease	1.29	1.17	1.43	231	"Jie Chen, 2023 (209)"	p < 0.001
+Type 2 diabetes	Alcoholic liver disease	1.07	0.97	1.18	231	"Jie Chen, 2023 (209)"	p = 1.75 × 10?¹
+Type 2 diabetes	Liver cirrhosis	1.12	1.03	1.21	231	"Jie Chen, 2023 (209)"	p = 6.00 × 10?³
+Type 2 diabetes	Liver cancer	1.12	0.97	1.3	231	"Jie Chen, 2023 (209)"	p = 1.19 × 10?¹
+Type 2 diabetes	Acute appendicitis	1.01	0.98	1.04	231	"Jie Chen, 2023 (209)"	p = 6.99 × 10?¹
+Gamma-glutamyl transferase	Type 2 diabetes	1.14	0.88	1.47	231	"Yaru Bi, 2022 (210)"	p = 3.30 × 10?¹
+Gamma-glutamyl transferase	Type 2 diabetes	1.55	1.22	1.98	231	"Yaru Bi, 2022 (210)"	p < 0.001
+Gamma-glutamyl transferase	Type 2 diabetes	1.87	1.47	2.28	231	"Yaru Bi, 2022 (210)"	p < 0.001
+Gamma-glutamyl transferase	Type 2 diabetes	1.97	1.55	2.52	231	"Yaru Bi, 2022 (210)"	p < 0.001
+Gamma-glutamyl transferase	Type 2 diabetes	2.29	1.78	2.94	231	"Yaru Bi, 2022 (210)"	p < 0.001
+Gamma-glutamyl transferase	Type 2 diabetes	0.998	0.995	1.002	20	"Yaru Bi, 2022 (210)"	p = 3.40 × 10?¹
+Gamma-glutamyl transferase	Type 2 diabetes	0.99	0.95	1.02	26	"Raymond Noordam, 2016 (211)"	p = 3.40 × 10?¹
+Bilirubin	Type 2 diabetes	0.75	0.62	0.92	1	"Ali Abbasi, 2015 (212)"	p = 2.00 × 10?³
+Gamma-glutamyl transferase	Type 2 diabetes	1.11	1.04	1.19	1	"Youn Sue Lee, 2016 (213)"	p = 2.00 × 10?³
+Type 2 diabetes		0.885	0.818	0.958	126	"Xiang Xiao, 2024(221)"	p = 2.00 × 10?³
+Type 2 diabetes	Inflammatory bowel disease	0.887	0.812	0.968	127	"Xiang Xiao, 2024(221)"	p = 7.00 × 10?³
+Type 2 diabetes	Ulcerative colitis	0.897	0.793	1.016	133	"Xiang Xiao, 2024(221)"	p = 8.70 × 10?²
+Inflammatory bowel disease	Crohn’s disease	1	0.955	1.047	7	"Xiang Xiao, 2024(221)"	p = 9.99 × 10?¹
+Ulcerative colitis	Type 2 diabetes	1.007	0.963	1.053	7	"Xiang Xiao, 2024(221)"	p = 7.49 × 10?¹
+Crohn’s disease	Type 2 diabetes	1.007	0.95	1.068	1	"Xiang Xiao, 2024(221)"	p = 8.15 × 10?¹
+Autoimmune hepatitis	Type 2 diabetes	1	0.93	1.07	5	Kuang et al. 2025 (214)	p = 9.40 × 10?¹
+Primary biliary cholangitis	Type 2 diabetes	1.03	1.01	1.05	25	Kuang et al. 2025 (214)	p = 1.00 × 10?²
+Primary sclerosing cholangitis	Type 2 diabetes	1	0.97	1.04	10	Kuang et al. 2025 (214)	p = 8.60 × 10?¹
+Type 2 diabetes	Type 2 diabetes	1.08	1	1.17		Fu et al. 2025 (215)	p < 0.05
+Gut microbiota (Clostridia)	Gut microbiota (Escherichia coli)	0.83	0.71	0.98		Ruan et al. 2025 (216)	p = 3.00 × 10?³
+Inflammatory bowel disease	Type 2 diabetes	1.01	0.99	1.02	45	Wu et al. 2025 (217)	p = 4.60 × 10?¹
+Ulcerative colitis	Type 2 diabetes	0.99	0.99	1.01	25	Wu et al. 2025 (217)	p = 3.80 × 10?¹
+Crohn’s disease	Type 2 diabetes	1	0.99	1.02	35	Wu et al. 2025 (217)	p = 7.00 × 10?¹
+Type 2 diabetes	Type 2 diabetes	0.917	0.848	0.992	  	Hu et al. 2024 (218)	p = 3.10 × 10?²
+	Ulcerative colitis						

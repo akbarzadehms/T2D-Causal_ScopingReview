@@ -1,0 +1,9 @@
+Exposure	Outcome	OR	Lower	Upper	SNPs	First_author_year_of_publication_Ref	P-Value
+Type 2 diabetes	Male infertility	0.77	0.6	0.98	105	Xiao-Bin Zhu 2023 (126)	p = 3.40 × 10?²
+Nonproliferative diabetic retinopathy	Type 2 diabetes with renal complications	1.07	1.01	1.14	20	Jiaxi Fang 2023 (16)	p = 2.29 × 10?²
+Proliferative diabetic retinopathy	Type 2 diabetes with renal complications				23	Jiaxi Fang 2023	p = 1.81 × 10??
+Type 2 diabetes	Abnormal spermatozoa	1.017	0.771	1.342	17	Mengyuan Dai 2022 (226)	p = 9.02 × 10?¹
+RHEB inhibitors	Type 2 diabetes	0.82	1.35	3.29	9	Diawara et al. 2025 (227)	p = 1.00 × 10?³
+CLDN14 modulators	Type 2 diabetes	0.94	0.71	2.21	4	Diawara et al. 2025 (140)	p = 1.49 × 10?¹
+VEGFA inhibitors	Type 2 diabetes	0.981	1.84	3.34	6	Diawara et al. 2025 (140)	p = 1.00 × 10?³
+SLC22A2 inhibitors	Type 2 diabetes	-0.04	0.62	1.48	8	Diawara et al. 2025 (140)	p = 8.41 × 10?¹

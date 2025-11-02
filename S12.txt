@@ -1,0 +1,106 @@
+Exposure	Outcome	OR	Lower	Upper	SNPs	First_author_year_of_publication_Ref	P-Value
+Asparagine	Type 2 diabetes	0.97	0.62	1.54	5	"Yue Sun, 2021 (443)"	p = 9.13 × 10?¹
+Glutamate	Type 2 diabetes	0.95	0.86	1.05	2		p = 3.00 × 10?¹
+"1,5-Anhydrosorbitol"	Type 2 diabetes	0.99	0.95	1.04	2		p = 7.72 × 10?¹
+Oleic acid	Type 2 diabetes	0.99	0.98	1.01	5		p = 2.81 × 10?¹
+Docosahexaenoic acid	Type 2 diabetes	1.11	0.86	1.44	2		p = 4.28 × 10?¹
+Linoleic acid	Type 2 diabetes	1.02	0.98	1.06	6		p = 3.62 × 10?¹
+Arachidonic acid	Type 2 diabetes	1.17	1.08	1.27	2		p < 0.01
+Homocysteine increment	Type 2 diabetes	1.29	1.04	1.59	1	"Tao Huang, 2013 (444)"	p < 0.01
+Type 2 diabetes	Low osteocalcin	0.97	0.95	0.99	98	"Hailuan Zeng, 2021 (445)"	p = 6.00 × 10?³
+Type 2 diabetes	Low osteocalcin	0.97	0.95	0.99	157	"Hailuan Zeng, 2021"	p = 1.00 × 10?³
+Homocysteine	Type 2 diabetes	1	0.91	1.1	5	Jitender Kumar 2015 (446)	p = 3.40 × 10?¹
+Homocysteine	Type 2 diabetes	1.31	1.17	1.64	1	tao huang/ 2013 (444)	p = 5.50 × 10?²
+Plasma asparagine	Type 2 diabetes	0.97	0.62	1.54	7	Yue Sun/2021 	p = 9.13 × 10?¹
+Plasma glutamate	Type 2 diabetes	0.95	0.86	1.05	2	Yue Sun/2021	p = 3.00 × 10?¹
+Plasma 2-hydroxybutyric acid	Type 2 diabetes	1.19	1	1.43	1	Yue Sun/2021	p = 5.10 × 10?²
+"Plasma 1,2-anhydroglucitol"	Type 2 diabetes	0.99	0.95	1.04	6	Yue Sun/2021	p = 7.72 × 10?¹
+Plasma palmitic acid	Type 2 diabetes	0.98	0.92	1.04	2	Yue Sun/2021	p = 6.17 × 10?¹
+Plasma oleic acid	Type 2 diabetes	0.99	0.98	1.01	6	Yue Sun/2021	p = 2.81 × 10?¹
+Plasma docosahexaenoic acid	Type 2 diabetes	1.11	0.86	1.44	2	Yue Sun/2021	p = 4.28 × 10?¹
+Plasma linoleic acid	Type 2 diabetes	1.02	0.98	1.06	7	Yue Sun/2021	p = 3.62 × 10?¹
+Plasma arachidonic acid	Type 2 diabetes	1.17	1.08	1.27	2	Yue Sun/2021	p < 0.001
+Valine	Type 2 diabetes	1.13	0.94	1.39		Jonathan D. Mosley/ 2024 (449)	p = 1.70 × 10?¹
+Leucine	Type 2 diabetes	1.15	0.98	1.38		Jonathan D. Mosley/ 2024	p = 9.00 × 10?²
+Isoleucine	Type 2 diabetes	1.13	0.92	1.4		Jonathan D. Mosley/ 2024	p = 2.40 × 10?¹
+Type 2 diabetes	Valine	1.08	1.05	1.11		Jonathan D. Mosley/ 2024	p = 1.80 × 10??
+Type 2 diabetes	Leucine	1.07	1.04	1.09		Jonathan D. Mosley/ 2024	p = 4.50 × 10??
+Type 2 diabetes	Isoleucine	1.06	1.04	1.08		Jonathan D. Mosley/ 2024	p = 2.80 × 10??
+Plasma ?-linolenic acid	Type 2 diabetes	0.93	0.9	0.96	13	Shuai Yuan/2020 (453)	p = 2.21 × 10??
+Plasma linoleic acid	Type 2 diabetes	0.96	0.94	0.98	13	Shuai Yuan/2020	p = 1.85 × 10??
+Plasma palmitoleic acid	Type 2 diabetes	0.86	0.81	0.91	13	Shuai Yuan/2020	p = 6.68 × 10??
+Plasma oleic acid	Type 2 diabetes	0.87	0.81	0.93	13	Shuai Yuan/2020	p = 2.21 × 10??
+Plasma eicosapentaenoic acid	Type 2 diabetes	1.08	1.03	1.12	13	Shuai Yuan/2020	p = 2.00 × 10?³
+Plasma docosapentaenoic acid	Type 2 diabetes	1.04	1.02	1.07	13	Shuai Yuan/2020	p = 1.00 × 10?³
+Plasma arachidonic acid	Type 2 diabetes	1.03	1.02	1.05	13	Shuai Yuan/2020	p = 2.51 × 10??
+Plasma stearic acid	Type 2 diabetes	1.09	1.03	1.15	13	Shuai Yuan/2020	p = 3.00 × 10?³
+Linoleic acid	Type 2 diabetes	0.81	0.69	0.96	28	Hao Liang/2023 (460)	p = 1.30 × 10?²
+Type 2 diabetes	Linoleic acid	0.968	0.943	0.994	28	Hao Liang/2023	p = 1.40 × 10?²
+Vaspin	Type 2 diabetes	1.01	1	1.02		Harry Hezhou Wang/2024 (465)	p = 2.86 × 10?²
+Lipoprotein(a)	Type 2 diabetes	0.63	0.49	0.81	1	Zheng Ye/ 2014 (53)	p = 3.00 × 10?³
+"Indoleamine 2,3-dioxygenase"	Type 2 diabetes	0.92	0.87	0.97	8	Mengyu Li/2019 (473)	p = 2.00 × 10?³
+Kynurenine aminotransferase 3	Type 2 diabetes	1	0.95	1.05	15		p = 9.70 × 10?¹
+Hemoglobin A1c	Type 2 diabetes	1.9	1.73	2.08	151	Daniela Zanetti/2020 (475)	p = 2.92 × 10?¹¹
+Glucose	Type 2 diabetes	4.51	4.16	4.85	45	Daniela Zanetti/2020	p = 1.82 × 10?¹¹
+Insulin-like growth factor-1	Type 2 diabetes	1.28	1.14	1.41	178	Daniela Zanetti/2020	p = 4.00 × 10??
+C-reactive protein	Type 2 diabetes	0.92	0.76	1.09	95	Daniela Zanetti/2020	p = 3.30 × 10?¹
+Rheumatoid factor	Type 2 diabetes	0.97	0.87	1.07	15	Daniela Zanetti/2020	p = 5.69 × 10?¹
+Calcium	Type 2 diabetes	1.05	0.87	1.22	95	Daniela Zanetti/2020	p = 6.15 × 10?¹
+Creatinine	Type 2 diabetes	0.89	0.7	1.07	161	Daniela Zanetti/2020	p = 2.07 × 10?¹
+Cystatin C	Type 2 diabetes	1.07	0.92	1.22	152	Daniela Zanetti/2020	p = 3.76 × 10?¹
+Phosphate	Type 2 diabetes	1	0.84	1.16	73	Daniela Zanetti/2020	p = 9.98 × 10?¹
+Uric acid	Type 2 diabetes	1.08	0.92	1.24	127	Daniela Zanetti/2020	p = 3.53 × 10?¹
+Urea	Type 2 diabetes	1.03	0.84	1.23	81	Daniela Zanetti/2020	p = 7.55 × 10?¹
+Vitamin D	Type 2 diabetes	1.07	0.77	1.37	29	Daniela Zanetti/2020	p = 6.74 × 10?¹
+Apolipoprotein A1	Type 2 diabetes	0.71	0.55	0.88	119	Daniela Zanetti/2020	p = 8.50 × 10??
+Apolipoprotein B	Type 2 diabetes	0.83	0.62	1.04	67	Daniela Zanetti/2020	p = 8.91 × 10?²
+High-density lipoprotein cholesterol	Type 2 diabetes	0.65	0.5	0.8	130	Daniela Zanetti/2020	p = 5.42 × 10??
+Lipoprotein(a)	Type 2 diabetes	1	0.8	1.2	7	Daniela Zanetti/2020	p = 9.96 × 10?¹
+Low-density lipoprotein cholesterol	Type 2 diabetes	0.82	0.63	1	70	Daniela Zanetti/2020	p = 3.60 × 10?²
+Total cholesterol	Type 2 diabetes	0.74	0.59	0.89	85	Daniela Zanetti/2020	p = 1.18 × 10??
+Triglycerides	Type 2 diabetes	1.35	1.19	1.51	101	Daniela Zanetti/2020	p = 3.12 × 10??
+Alanine aminotransferase	Type 2 diabetes	1.73		 	96	Daniela Zanetti/2020	p = 1.65 × 10??
+Albumin	Type 2 diabetes	1.07		 	88	Daniela Zanetti/2020	p = 4.47 × 10?¹
+Alkaline phosphatase	Type 2 diabetes	0.99		 	152	Daniela Zanetti/2020	p = 9.01 × 10?¹
+Aspartate aminotransferase	Type 2 diabetes	1.04		 	126	Daniela Zanetti/2020	p = 6.59 × 10?¹
+Direct bilirubin	Type 2 diabetes	0.9		 	33	Daniela Zanetti/2020	p = 5.34 × 10?¹
+Total bilirubin	Type 2 diabetes	0.78		 	58	Daniela Zanetti/2020	p = 4.57 × 10?²
+Gamma-glutamyl transferase	Type 2 diabetes	1.13		 	154	Daniela Zanetti/2020	p = 8.81 × 10?²
+Total protein	Low type 2 diabetes risk	1.18		 	126	Daniela Zanetti/2020	p = 3.93 × 10?²
+Galectin-1	Type 2 diabetes	1.05	0.98	1.14	1	Isabel Drake/2022 (480)	p = 1.90 × 10?¹
+Phylloquinone	Type 2 diabetes	0.93	0.89	0.97	4	Sabine R Zwakenberg/2019 (481)	p < 0.05
+Resistin	Type 2 diabetes	1.62		 	2	Chia-Min Chung 2014	p = 6.30 × 10?³
+Type 2 diabetes	IGFBP-2	1	0.96	1.04	16	Raymond Noordam 2020 (482)	p = 9.70 × 10?¹
+Insulin-like growth factor-1	Type 2 diabetes	1.11		 	784	Eugene J Gardner 2022 (484)	p = 2.93 × 10?³
+Gamma-glutamyl dipeptides	Type 2 diabetes	0.57	0.28	0.86	4	Qiong Wu 2022 (485)	p = 1.43 × 10??
+Adiponectin	Type 2 diabetes	1.04		 	8	Zefeng Chen 2020 (486)	p = 6.15 × 10?¹
+Adiponectin	Type 2 diabetes	0.971	0.95	0.988	15	Muzi Zhang 2022 (487)	p = 2.00 × 10?³
+Fetuin-A	Type 2 diabetes	1.21	1.13	1.3	3	Lawien Al Ali 2023 (488)	p < 0.01
+Inorganic arsenic	Type 2 diabetes	0.95	0.69	1.32	3	Molly Scannell Bryan 2019 (489)	p = 7.45 × 10?¹
+Monomethylarsenate	Type 2 diabetes	0.99	0.78	1.27	3	Molly Scannell Bryan 2019	p = 9.59 × 10?¹
+Dimethylarsinate	Type 2 diabetes	1.01	0.88	1.16	3	Molly Scannell Bryan 2019	p = 8.97 × 10?¹
+BDH1	Type 2 diabetes	0.97	0.95	0.99	38	Liu et al. 2025 (491)	p < 0.05
+Type 2 diabetes	BDH1	0.97	0.92	1.02	4	Liu et al. 2025 (491)	p < 0.05
+Plasma uric acid	Type 2 diabetes	1.06	1.04	1.08		Xueting Hu-2020 (493)	p < 0.05
+Plasma proteomics	Type 2 diabetes	1.02	1.01	1.06		Hong Luo-2023 (494)	p < 5 × 10??
+Serum uric acid	Type 2 diabetes	1.19	0.96	1.48		Mulatibieke Keerman -2020 (496)	p < 0.05
+Height	Type 2 diabetes	0.93	0.87	0.95		Eirini Marouli-2019 (499)	p = 2.56 × 10??
+Vitamin D binding protein	Type 2 diabetes	1.01	0.97	1.05		Aaron Leong -2014 (88)	p = 7.60 × 10?¹
+Tyrosine	Type 2 diabetes	0.87	0.81	0.93		Susanne J?ger-2020 (414)	p < 1.11 × 10??
+Eukaryotic initiation factor 4E	Type 2 diabetes	0.94	0.88	0.99		Ghada A Soliman -2020 (502)	p = 3.00 × 10?²
+Eukaryotic initiation factor 4A	Type 2 diabetes	0.9	0.85	0.97		Ghada A Soliman -2020 (502)	
+Interleukin-18	Type 2 diabetes	1.13	1	1.25		He Zhuang-2019 (503)	p = 4.40 × 10?²
+Type 2 diabetes	Regulatory elements	2.44	2.29	2.6		Daiane Hemerich-2023 (504)	p < 0.05
+Serum urate	Type 2 diabetes	0.95	0.86	1.05		Tanya Keenan-2016 (505)	p < 0.01
+Mitochondrial DNA copy number	Type 2 diabetes	1.04	0.9	1.2		"Wenyi wang, 2022 (425)"	p > 0.05
+Mitochondrial DNA copy number	Type 2 diabetes	0.99	0.83	1.17		"Wenyi wang, 2022"	p > 0.05
+Uric acid	Type 2 diabetes	0.99	0.92	1.06		Ivonne Sluijs-2015 (507)	p < 5 × 10??
+Trimethylamine N-oxide	Type 2 diabetes	0.96	0.59	1.57		"Jinzhu Jia, 2019(175)"	p = 8.63 × 10?¹
+Carnitine	Type 2 diabetes	0.88	0.59	1.32		"Jinzhu Jia, 2019 (175)"	p = 5.45 × 10?¹
+Choline	Type 2 diabetes	1.84	1	3.42		"Jinzhu Jia, 2019 (175)"	p = 5.00 × 10?²
+Betaine	Type 2 diabetes	0.68	0.48	0.95		"Jinzhu Jia, 2019 (175)"	p = 2.30 × 10?²
+Type 2 diabetes	TMAO	1.14	1.06	1.22		"Jinzhu Jia, 2019 (175)"	p < 0.0001
+Type 2 diabetes	Betaine	0.9	0.84	0.97		"Jinzhu Jia, 2019 (175)"	p = 2.00 × 10?³
+Type 2 diabetes	Carnitine	1.06	0.98	1.13		"Jinzhu Jia, 2019 (175)"	p = 1.33 × 10?¹
+Type 2 diabetes	Choline	1	0.93	1.07	"Jinzhu Jia, 2019 (175)"		p = 9.69 × 10?¹
+							

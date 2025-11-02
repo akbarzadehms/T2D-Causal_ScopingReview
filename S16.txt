@@ -1,0 +1,10 @@
+Exposure	Outcome	OR	Lower	Upper	SNPs	First_author_year_of_publication_Ref	P-Value
+Type 2 diabetes	Ectopic pregnancy	1	0.95	1.05	237	"Jing Chen, 2020 (142)"	p = 9.74 × 10?¹
+Type 2 diabetes	Hyperemesis gravidarum	1.07	0.99	1.16	237	"Jing Chen, 2020 (142)"	p = 1.03 × 10?¹
+Type 2 diabetes	Gestational diabetes	1.66	1.55	1.77	237	"Jing Chen, 2020 (142)"	p = 1.30 × 10??¹
+Type 2 diabetes	Preeclampsia	1.15	1.08	1.22	249	"Jing Chen, 2020 (142)"	p = 3.37 × 10??
+Type 2 diabetes	Preterm birth	1.05	1.02	1.09	244	"Jing Chen, 2020 (142)"	p = 2.14 × 10?³
+Type 2 diabetes	birth weight	9.41	0.31	18.5	185	"Jing Chen, 2020 (142)"	p = 4.26 × 10?²
+Type 2 diabetes	Pre-eclampsia	1.09	1.04	1.14		Ying et al. 2025 (143)	p < 0.001
+Type 2 diabetes	Pre-eclampsia	1.1	1.01	1.2	50	Song et al. 2025 (144)	p = 3.10 × 10?²
+Type 2 diabetes	Pre-eclampsia	1.18	1.09	1.27	180	Tan et al. 2024 (145)	p = 1.89 × 10??

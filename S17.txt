@@ -1,0 +1,25 @@
+Exposure	Outcome	OR	Lower	Upper	SNPs	First_author_year_of_publication_Ref	P-Value
+Type 2 diabetes	FEV1	0.94	0.9	0.976	192	"Jiahao Zhu, 2021 (129)"	0.001
+Type 2 diabetes	FEV1	0.94	0.9	0.979	192	"Jiahao Zhu, 2021 (129)"	0.002
+Type 2 diabetes	FVC	0.92	0.88	0.95	192	"Jiahao Zhu, 2021 (129)"	<0.001
+Type 2 diabetes	FVC	0.92	0.88	0.95	192	"Jiahao Zhu, 2021 (129)"	<0.001
+Type 2 diabetes	FEV1/FVC ratio	1.05	1.012	1.08	192	"Jiahao Zhu, 2021 (129)"	0.008
+Type 2 diabetes	FEV1/FVC ratio	1.04	1.008	1.08	192	"Jiahao Zhu, 2021 (129)"	0.015
+Forced expiratory volume in 1 second	Type 2 diabetes	0.77	0.63	0.94	205	"Jiahao Zhu, 2021 (129)"	0.011
+Forced expiratory volume in 2 seconds	Type 2 diabetes	0.8	0.65	0.98	205	"Jiahao Zhu, 2021 (129)"	0.032
+Forced vital capacity	Type 2 diabetes	0.82	0.68	0.99	264	"Jiahao Zhu, 2021 (129)"	0.038
+Forced vital capacity	Type 2 diabetes	0.86	0.71	1.05	264	"Jiahao Zhu, 2021 (129)"	0.146
+FEV1/FVC ratio	Type 2 diabetes	1.2	0.72	2.01	106	"Jiahao Zhu, 2021 (129)"	0.48
+FEV1/FVC ratio	Type 2 diabetes	1.31	0.77	2.26	106	"Jiahao Zhu, 2021 (129)"	0.322
+Forced expiratory volume in 1 second	Type 2 diabetes	0.75	0.62	0.9	260	"Shiu Lun Au Yeung, 2021 (130)"	p<0.05
+Forced vital capacity	Type 2 diabetes	0.67	0.58	0.79	320	"Shiu Lun Au Yeung, 2021(7)"	p<0.05
+Type 2 diabetes	FVC	0.11	0.11	0.12	413	"Vasiliki Lagou, 2023 (131)"	1.4x10-21
+Type 2 diabetes	FEV1	0.11	0.11	0.12	413	"Vasiliki Lagou, 2023(8)"	1.3x10-13
+Forced vital capacity	Type 2 diabetes	0.02	0.02	0.02	115	"Vasiliki Lagou, 2023(8)"	0.04
+Forced expiratory volume in 1 second	Type 2 diabetes	0.03	0.03	0.03	140	"Vasiliki Lagou, 2023(8)"	0.04
+Chronic obstructive pulmonary disease	Type 2 diabetes	1.06	1.01	1.11	26	"Tao Wang, 2024 (133)"	0.006
+Type 2 diabetes	Idiopathic pulmonary fibrosis	1.02	0.93	1.11	-	Samuel T Moss (134)	0.69
+Type 2 diabetes	Chronic obstructive pulmonary disease	1.02	1.002	1.04	274	Wang et al. 2025 (135)	0.05
+Type 2 diabetes	FEV1	0.983	0.97	0.996	274	Xie et al. 2025 (136)	0.012
+Type 2 diabetes	FVC	0.979	0.965	0.994	274	Xie et al. 2025 (136)	0.004
+Type 2 diabetes	Maximal oxygen uptake	0.989	0.972	1.006	93	Kjaergaard et al. 2025 (137)	p>0.05

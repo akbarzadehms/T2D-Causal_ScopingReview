@@ -1,0 +1,91 @@
+Exposure	Outcome	OR	Lower	Upper	SNPs	First_author_year_of_publication_Ref	P-Value
+Type 2 diabetes	Heart failure	1.13	1.11	1.14	529 DIAMANTE 234 DIAGRAM	R.Mordi 2021 (228)	p < 0.001
+Heart failure	Type 2 diabetes	1.49	1.01	2.19	12	R.Mordi 2021 (228)	p = 4.20 × 10?²
+Type 2 diabetes	Cardiovascular disease	1.05	1.04	1.06	East Asians 152/Europeans 119	Jonathan L Ciofani-2023 (229)	p < 0.0001
+Arterial stiffness	Type 2 diabetes	1.18	1.04	1.35	403	Fariba Ahmadizar-2023  (230)	p < 0.05
+Type 2 diabetes	Blood pressure	1			256	Jordana B Cohen 2022 (231)	p =1.00 × 10?³
+Type 2 diabetes	Mean arterial pressure	1.19	1.07	1.32	256	Jordana B Cohen 2022 (231)	p = 1.00 × 10?²
+Blood pressure	Type 2 diabetes	0.57	0.41	0.78	256	Jordana B Cohen 2022 (231)	p = 1.00 × 10?¹?
+Type 2 diabetes	Coronary artery disease	1.13	1.1	1.16	44	Christopher Grace -2022 (232)	p = 1.59 × 10?¹?
+Type 2 diabetes	Peripheral artery disease	1.12			80 European 94 East Asian	Xuehau Xiu 2022 (233)	p < 0.0001
+Peripheral artery disease	Type 2 diabetes	1.08			28 European 21 East Asian	Xuehau Xiu 2022 (233)	p < 0.0001
+Type 2 diabetes	Hypertension	1.07	1.04	1.1	134	Dianjianyi Sun 2019 (234)	p = 3.40 × 10??
+Type 2 diabetes	Systolic blood pressure	0.67	0.41	0.93	134	Dianjianyi Sun 2019 (234)	p = 5.75 × 10??
+Type 2 diabetes	Diastolic blood pressure	0.2	0.05	0.36	134	Dianjianyi Sun 2019 (234)	p = 8.00 × 10?³
+Hypertension	Type 2 diabetes	0.98	0.9	1.08	233	Dianjianyi Sun 2019 (234)	p = 7.00 × 10?¹
+Systolic blood pressure	Type 2 diabetes	0.999	0.99	1.008	233	Dianjianyi Sun 2019 (234)	p = 7.48 × 10?¹
+Diastolic blood pressure	Type 2 diabetes	0.995	0.979	1.011	233	Dianjianyi Sun 2019 (234)	p = 5.56 × 10?¹
+Type 2 diabetes	Arterial stiffness	1.24	1.06	1.47	34	Min Xu-2016 (235)	p = 8.00 × 10?³
+Type 2 diabetes	Coronary heart disease	1.21	1.17	10.26	270	Tricia M Peters-2021 (236)	p < 0.01
+Blood pressure	Type 2 diabetes	1.31	1.14	1.52	242	Nhu Ngoc Le-2022 (237)	p < 0.004
+Type 2 diabetes	Coronary heart disease	1.11	1.05	1.17	37	Omar S Ahmad-2015 (238)	p = 8.80 × 10??
+Type 2 diabetes	Atrial fibrillation	1.08	1.02	1.13	182	Rohin K Reddy 2023 (239)	p = 4.00 × 10?³
+Type 2 diabetes	Abdominal aortic aneurysm	1.04	0.98	1.11	206	Dylan R Morris 2022 (240)	p = 1.90 × 10?¹
+Type 2 diabetes	Coronary artery disease	1.09	1.06	1.11	243	Bowen Liu 2021 (241)	p < 0.0001
+Type 2 diabetes	Deep vein thrombosis	1.05	1.01	1.09	243	Bowen Liu 2021 (241)	p = 2.00 × 10?²
+Type 2 diabetes	Peripheral vascular disease	1.16	1.11	1.21	243	Bowen Liu 2021 (241)	p < 0.0001
+Type 2 diabetes	Heart failure	1.09	1.05	1.12	243	Bowen Liu 2021 (241)	p < 0.0001
+Type 2 diabetes	Aortic valve stenosis	1.13	1.07	1.19	243	Bowen Liu 2021 (241)	p < 0.0001
+Atrial fibrillation	Type 2 diabetes	1.03	1	1.07	110	Man Ki Kwok 2021 (242)	p = 9.00 × 10?²
+Type 2 diabetes	Atrial fibrillation	1	0.97	1.03	195	Man Ki Kwok 2021 (242)	p = 9.20 × 10?¹
+Type 2 diabetes	Hypertension	1.09	1.05	1.13	278 FinnGen / 292 UKBB	Sabine Van Oort 2020 (243)	p < 0.0001
+Systolic blood pressure	Type 2 diabetes	1.018	1.009	1.028	28 Expanded / 13 Conservative	Rachael C Aikens 2017 (244)	p < 0.0001
+Type 2 diabetes	Carotid plaque	1.17	1.05	1.29	48	Wei Gan-2019 (245)	p = 3.74 × 10?³
+Type 2 diabetes	Atrial fibrillation	1.01	0.98	1.03	122	Hadi Harati-2019 (246)	p = 3.70 × 10?¹
+Type 2 diabetes	Coronary artery disease	1.13	1.1	1.16	336	Wenqiang Zhang 2024 (248)	p = 5.50 × 10??
+Coronary artery disease	Type 2 diabetes	1.08	1.04	1.13	218	Wenqiang Zhang 2024 (248)	p = 9.46 × 10??
+Type 2 diabetes	Coronary artery disease	1.07	1.05	1.1	207	David G Thomas-2021 (249)	p = 3.30 × 10??
+Type 2 diabetes	Thoracic aortic aneurysm	0.931	0.87	0.997	81	Yiran Zhang 2023 (250)	p = 4.00 × 10?²
+Type 2 diabetes	Ascending aorta diameter	0.937	0.906	0.969	83	Yiran Zhang 2023 (250)	p = 1.70 × 10??
+Type 2 diabetes	Descending aorta diameter	0.923	0.89	0.958	83	Yiran Zhang 2023 (250)	p = 2.70 × 10??
+Type 2 diabetes	Ascending aorta diameter	0.945	0.909	0.981	7	Yiran Zhang 2023 (250)	p = 3.00 × 10?³
+Type 2 diabetes	Descending aorta diameter	1.005	0.966	1.046	7	Yiran Zhang 2023 (250)	p = 8.05 × 10?¹
+Type 2 diabetes	Abdominal aortic aneurysm	1.03	0.96	1.11	65	Femke Ng van 't Hof-2017 (251)	p = 5.20 × 10?¹
+Type 2 diabetes	Coronary heart disease	1.16	1.12	1.21	143	Ken Chen 2022 (252)	p < 0.001
+Type 2 diabetes	Myocardial infarction	1.15	1.1	1.2	143	Ken Chen 2022 (252)	p < 0.001
+Heart failure	Heart failure	1.07	1.04	1.1	82	Yan V Sun 2023 (253)	p = 7.02 × 10??
+Type 2 diabetes	Type 2 diabetes	1.6	1.36	1.88	59	Yan V Sun 2023 (253)	p = 1.55 × 10??
+Type 2 diabetes	Peripheral artery disease	1.21	1.16	1.25	386	Mingkai Huang-2022 (254)	p = 4.01 × 10?²²
+Type 2 diabetes	Myocardial infarction	1.13	1.1	1.16	386	Mingkai Huang-2022 (254)	p = 3.87 × 10?²²
+Type 2 diabetes	Ischemic heart disease	1.13	1.11	1.15	386	Mingkai Huang-2022 (254)	p = 1.51 × 10?²?
+Type 2 diabetes	Heart failure	1.05	1.03	1.07	386	Mingkai Huang-2022 (254)	p = 4.05 × 10??
+Type 2 diabetes	Essential hypertension	1.013	1.01	1.015	386	Mingkai Huang-2022 (254)	p = 6.28 × 10?²?
+Type 2 diabetes	Coronary atherosclerosis	1.005	1.004	1.007	386	Mingkai Huang-2022 (254)	p = 3.28 × 10?¹?
+Type 2 diabetes	Major coronary heart disease	1.003	1.002	1.004	386	Mingkai Huang-2022 (254)	p = 2.74 × 10?¹¹
+Type 2 diabetes	Venous thromboembolism	0.97	0.91	1.03	114	Sing Hu 2023 (255)	p = 2.91 × 10?¹
+Type 2 diabetes	Deep vein thrombosis	0.96	0.89	1.03	114	Sing Hu 2023 (255)	p = 2.55 × 10?¹
+Type 2 diabetes	Pulmonary embolism	0.97	0.9	1.04	114	Sing Hu 2023 (255)	p = 3.58 × 10?¹
+Venous thromboembolism	Type 2 diabetes	1.04	1	1.09	6	Sing Hu 2023 (255)	p = 6.90 × 10?²
+Deep vein thrombosis	Type 2 diabetes	1.04	1	1.09	5	Sing Hu 2023 (255)	p = 6.60 × 10?²
+Pulmonary embolism	Type 2 diabetes	1.02	0.98	1.07	3	Sing Hu 2023 (255)	p = 2.71 × 10?¹
+Type 2 diabetes	Coronary artery disease	1.63	1.23	2.07	59	Stephanie Ross-2015 (256)	p = 2.00 × 10?³
+Resting heart rate	Type 2 diabetes	0.22	0.18	0.26	7	Yanjun Guo-2019 (257)	p = 1.99 × 10?²²
+Type 2 diabetes	Arterial stiffness	1.24			34	Mikael Gotts?ter -2018 (258)	p = 8.00 × 10?³
+Type 2 diabetes	Venous thromboembolism	0.97	0.91	1.03	114	Song Hu-2023 (255)	p = 2.91 × 10?¹
+Type 2 diabetes	Deep vein thrombosis	0.96	0.89	1.03	114	Song Hu-2023 (255)	p = 2.55 × 10?¹
+Type 2 diabetes	Pulmonary embolism	0.97	0.9	1.04	114	Song Hu-2023 (255)	p = 3.58 × 10?¹
+Type 2 diabetes	Coronary artery disease	1.11	1.08	1.15	277/278	Yiming Jia-2022 (259)	p = 5.22 × 10?¹²
+Type 2 diabetes	Varicose veins	1	0.95	1.05	497	Shuai Yuan-2021 (261)	p > 0.05
+Type 2 diabetes	Right ventricular systolic pressure	1.015	1	1.03	158	Minoo Bagheri-2023 (262)	p = 2.00 × 10?²
+Type 2 diabetes	Tricuspid regurgitation velocity	1.025	1.01	1.041	158	Minoo Bagheri-2023 (262)	p = 1.00 × 10?²
+Type 2 diabetes	Tricuspid annular plane systolic excursion	0.967	0.942	1	141	Minoo Bagheri-2023 (262)	p = 3.00 × 10?²
+Type 2 diabetes	Pulmonary arterial hypertension	1.43	1.04	1.97	163	Jiang-shan Tan-2024 (263)	p = 2.80 × 10?²
+Type 2 diabetes	Coronary heart disease	1.021	1.003	1.039	187	Pan Zhang-2024 (264)	p = 2.20 × 10?²
+Type 2 diabetes	Myocardial infarction	1.165	1.106	1.228	187	Pan Zhang-2024 (264)	p < 0.001
+Type 2 diabetes	Pulmonary blood flow	1.013	1.007	1.019	187	Pan Zhang-2024 (264)	p < 0.001
+Type 2 diabetes	Deep vein thrombosis	1.011	1.005	1.018	187	Pan Zhang-2024 (264)	p = 1.00 × 10?³
+Type 2 diabetes	Peripheral vascular disease	1.003	1.001	1.006	187	Pan Zhang-2024 (264)	p = 1.30 × 10?²
+Diabetes mellitus	Tricuspid regurgitation velocity (highest)	0.04	0.02	0.06	158	"Minoo Bagheri, 2023 (262)"	p = 3.60 × 10??
+Diabetes mellitus (BMI-adjusted)	Tricuspid regurgitation velocity (highest)	0.03	0.01	0.05	158	"Minoo Bagheri, 2023 (262)"	p = 7.00 × 10??
+Diabetes mellitus	Right ventricular systolic pressure (highest)	0.03	0.01	0.04	158	"Minoo Bagheri, 2023 (262)"	p = 1.00 × 10??
+Diabetes mellitus (BMI-adjusted)	Right ventricular systolic pressure (highest)	0.02	0.01	0.03	158	"Minoo Bagheri, 2023 (262)"	p = 1.00 × 10??
+Diabetes mellitus (univariate)	TAPSE-to-RVSP ratio	0.92	0.88	0.97	141	"Minoo Bagheri, 2023 (262)"	p < 0.05
+Diabetes mellitus (multivariate)	TAPSE-to-RVSP ratio	0.95	0.9	0.99	141	"Minoo Bagheri, 2023 (262)"	p < 0.05
+Type 2 diabetes	Leg ulcer	1.33	1.23	1.43	482	"Huan Wang, 2024 (265)"	p = 1.60 × 10?¹³
+Type 2 diabetes	Peripheral artery disease	1.29	1.24	1.34	482	"Huan Wang, 2024 (265)"	p = 1.97 × 10?³?
+Diastolic blood pressure	Type 2 diabetes	1.03			90	Leyden et al. 2025 (266)	p = 1.00 × 10?¹³
+Systolic blood pressure	Type 2 diabetes	1.04			84	Leyden et al. 2025 (176)	p = 3.50 × 10???
+Type 2 diabetes	Cardiovascular disease (male)	1.1	1.05	1.15		Ruiter 2025 et al. (267)	p < 0.05
+Type 2 diabetes	Cardiovascular disease (female)	1.07	1.03	1.12		Ruiter 2025 et al. (192)	p < 0.06
+Systolic blood pressure	Type 2 diabetes	0.83	0.78	0.88		Ngoc Le et al. (268)	p < 0.05
+Type 2 diabetes	Heart failure with preserved ejection fraction	1.09	1.03	1.15		Lin et al. 2025 (269)	p = 1.80 × 10?³

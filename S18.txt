@@ -1,0 +1,16 @@
+Exposure	Outcome	OR	Lower	Upper	SNPs	First_author_year_of_publication_Ref	P-Value
+Type 2 diabetes	Erectile dysfunction	1.14	1.08	1.21	114	"Chi Yuan, 2022 (124) - Univariate"	p < 0.001
+Type 2 diabetes	Erectile dysfunction	1.15	1.05	1.25	114	"Chi Yuan, 2022 (124) - Multivariate"	p = 1.00 × 10?³
+Type 2 diabetes	Total testosterone	0.979	0.969	0.99	228	"Chengyang Jiang, 2023 (125)"	p < 0.001
+Type 2 diabetes	Male total testosterone	0.94	0.92	0.972	228	"Chengyang Jiang, 2023 (106)"	p < 0.001
+Type 2 diabetes	Female total testosterone	1.003	0.988	1.019	228	"Chengyang Jiang, 2023 (106)"	p = 6.76 × 10?¹
+Type 2 diabetes	Sex hormone–binding globulin	0.95	0.94	0.97	228	"Chengyang Jiang, 2023 (106)"	p < 0.001
+Type 2 diabetes	Male sex hormone–binding globulin	0.91	0.87	0.94	228	"Chengyang Jiang, 2023 (106)"	p < 0.001
+Type 2 diabetes	Female sex hormone–binding globulin	0.86	0.82	0.89	228	"Chengyang Jiang, 2023 (106)"	p < 0.001
+Type 2 diabetes	Bioavailable testosterone	1.03	1.024	1.05	228	"Chengyang Jiang, 2023 (106)"	p < 0.001
+Type 2 diabetes	Male bioavailable testosterone	1.005	0.988	1.021	228	"Chengyang Jiang, 2023 (106)"	p = 5.63 × 10?¹
+Type 2 diabetes	Female bioavailable testosterone	1.08	1.06	1.1	228	"Chengyang Jiang, 2023 (106)"	p < 0.001
+Type 2 diabetes	Erectile dysfunction	1.19	1.08	1.3	58	Xiao-Bin Zhu/2023 (126)	p < 0.001
+Type 2 diabetes	Male infertility	0.77	0.6	0.98	58	Xiao-Bin Zhu/2023 (107)	p = 3.40 × 10?²
+Type 2 diabetes	Erectile dysfunction	1.09	1.08	1.1	56	Pan et al. 2025 (127)	p < 0.05
+Type 2 diabetes	Abnormal sperm morphology	0.99	0.89	1.1	114	Zhang et al. 2024 (128)	p = 8.80 × 10?¹

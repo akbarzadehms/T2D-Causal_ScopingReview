@@ -1,0 +1,34 @@
+Exposure	Outcome	OR	Lower	Upper	SNPs	First_author_year_of_publication_Ref	P-Value
+Monocyte count	Type 2 diabetes	1.06	1.02	1.1	327	"Jin Li, 2023 (219)"	p = 1.51 × 10?¹
+White blood cell count	Type 2 diabetes	1.08	1.02	1.14	361		p = 9.28 × 10?¹
+Lymphocyte count	Type 2 diabetes	1.04	0.99	1.1	334		p = 2.07 × 10?¹
+Neutrophil count	Type 2 diabetes	1	0.93	1.08	247		p = 4.04 × 10?¹
+Eosinophil count	Type 2 diabetes	0.97	0.92	1.02	296		p > 0.05
+Basophil count	Type 2 diabetes	1.04	0.95	1.13	104		p < 0.05
+High-sensitivity C-reactive protein	Type 2 diabetes	1.15	0.93	1.42	15	"Raymond Noordam, 2018 (220)"	p > 0.05
+Interleukin-6	Type 2 diabetes	0.83	0.75	0.92			p < 0.05
+Interleukin-1 receptor antagonist	Type 2 diabetes	1	0.98	1.02			p > 0.05
+ICAM1	Type 2 diabetes	0.79	0.67	0.92			p < 0.05
+C-reactive protein	Incident diabetes	1.39	1.29	1.51	?	"Eric J Brunner, 2008 (221)"	p = 1.00 × 10??
+Neutrophil	Type 2 diabetes	1.09	0.88	1.35	63	"Yaru Bi, 2024 (222)"	p = 4.50 × 10?¹
+Lymphocyte	Type 2 diabetes	0.88	0.77	1.006	83	"Yaru Bi, 2024 (222)"	p = 6.20 × 10?²
+Monocyte	Type 2 diabetes	1.01	0.91	1.13	91	"Yaru Bi, 2024 (222)"	p = 8.55 × 10?¹
+Eosinophil	Type 2 diabetes	0.995	0.87	1.14	65	"Yaru Bi, 2024 (222)"	p = 9.42 × 10?¹
+Basophil	Type 2 diabetes	0.96	0.76	1.21	32	"Yaru Bi, 2024 (222)"	p = 7.24 × 10?¹
+Type 2 diabetes	Neutrophil	1.008	0.984	1.033	9	"Yaru Bi, 2024 (222)"	p = 5.16 × 10?¹
+Type 2 diabetes	Lymphocyte	0.999	0.974	1.024	9	"Yaru Bi, 2024 (222)"	p = 9.46 × 10?¹
+Type 2 diabetes	Monocyte	1.004	0.975	1.034	8	"Yaru Bi, 2024 (222)"	p = 8.03 × 10?¹
+Type 2 diabetes	Eosinophil	0.985	0.962	1.009	6	"Yaru Bi, 2024 (222)"	p = 2.27 × 10?¹
+Type 2 diabetes	Basophil	0.991	0.971	1.011	8	"Yaru Bi, 2024 (222)"	p = 3.30 × 10?¹
+Systemic lupus erythematosus	Type 2 diabetes	0.985	0.97	1.001	25	"Yaru Bi, 2024 (222)"	p = 7.00 × 10?²
+Type 2 diabetes	Systemic lupus erythematosus	0.96	0.87	1.05	74	"Yaru Bi, 2024 (222)"	p = 3.62 × 10?¹
+Type 2 diabetes	Systemic lupus erythematosus	0.66	0.4	1.11	74-10??	"Yaru Bi, 2024 (222)"	p = 1.18 × 10?¹
+GP5	Type 2 diabetes	1.009	1.003	1.015	66	"Yaru Bi, 2024 (222)"	p = 1.90 × 10?³
+GP13	Type 2 diabetes	1.013	1.006	1.021	41	"Yaru Bi, 2024 (222)"	p = 5.00 × 10??
+GP22	Type 2 diabetes	1.003	1	1.006	184	"Yaru Bi, 2024 (222)"	p = 4.64 × 10?²
+GP9	Type 2 diabetes	0.9	0.85	0.96	4	"Yaru Bi, 2024 (222)"	p = 8.00 × 10??
+C-reactive protein	Type 2 diabetes	1.11	1.06	1.17	4	"Liang Cheng, 2018 (224)"	p = 2.40 × 10?²
+Complement C2	Type 2 diabetes	1.65					p = 7.00 × 10?³
+Neuropilin-2	Type 2 diabetes	0.44					p = 8.00 × 10?³
+Type 2 diabetes	Complement C2	1.06					p = 7.60 × 10?¹
+Type 2 diabetes	Neuropilin-2	0.87					p = 1.30 × 10?¹

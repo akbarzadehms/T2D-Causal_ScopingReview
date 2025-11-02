@@ -1,0 +1,21 @@
+Exposure	Outcome	OR	Lower	Upper	SNPs	First_author_year_of_publication_Ref	P-Value
+Attention deficit hyperactivity disorder	Type 2 diabetes	1.14	1.08	1.2		"Haoran Tao,2023(104)"	p = 5.70 × 10??
+Type 2 diabetes	Attention-deficit/hyperactivity disorder	1.09	1.04	1.14		"Haoran Tao,2024(104)"	p = 4.00 × 10??
+Major depressive disorder	Type 2 diabetes	1.22	1.09	1.36		"Haoran Tao,2025(104)"	p = 4.00 × 10??
+Type 2 diabetes	Major depressive disorder	1.26	1.01	1.43	89	"Bowen Tang,2020(105)"	p = 6.00 × 10??
+Reaction time	Type 2 diabetes	0.94	0.54	1.65	43	"Victoria Garfield,2021(106)"	p > 0.05
+Type 2 diabetes	Reaction time	1	0.98	1	157	"Victoria Garfield,2022(106)"	p > 0.05
+Type 2 diabetes	Dementia	1.07	1.05	1.08		"Elizabeth M Litkowski,2024(107)"	p = 3.40 × 10?¹?
+Type 2 diabetes	Depression	1.75	1.31	2.46	34	"Liping Xuan,2018(108)"	p < 0.05
+Type 2 diabetes	Schizophrenia	0.98	0.95	1.02		"Zhiqiang Li, 2018(110)"	p > 0·05
+Type 2 diabetes	Alzheimer’s disease	1.01	0.96	1.07	43	"Yuesong Pan, 2020(111)"	p = 7.00 × 10?³
+Depression	Type 2 diabetes	1.06	1.01	1.11	98	"Wenyu Huang, 2023(112)"	p = 4.30 × 10?²
+Type 2 diabetes	Depression	1.06	1.01	1.11	98	"Wenyu Huang, 2023(112)"	p = 4.30 × 10?²
+Intelligence	Type 2 diabetes	0.85	0.77	0.95	242	"Ling Li, 2021(113)"	p < 0.001
+Type 2 diabetes	Depressive symptoms	0.65	0.45	0.93	35	"Karolina Weso?owska, 2017(114)"	p = 2.00 × 10?²
+Type 2 diabetes	All-cause dementia	1.48	1.44	1.53	215	"Jesper Qvist Thomassen, 2020(115)"	p < 0.05
+Type 2 diabetes	Dementia	1	0.5	1.39	138	"Erin B Ware,2021(116)"	p = 1.00 × 10?³
+Depression	Type 2 diabetes	1.13	1.024	1.25	43	"Heejin Jin,2023(117)"	p = 1.40 × 10?²
+Type 2 diabetes	Parkinson’s disease	0.81	0.56	1.18	89	"Kye Won Park, 2023(118)"	p = 2.75 × 10?¹
+Type 2 diabetes	Delirium	1.8	0.93	1.26	14	"Jing Li, 2023(119)"	p = 3.22 × 10?¹
+Post-traumatic stress disorder	Type 2 diabetes	1.04	1.01	1.06	94	Yu et al. 2024 (120)	p = 1.10 × 10?²

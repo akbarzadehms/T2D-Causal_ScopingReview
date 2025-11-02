@@ -1,0 +1,46 @@
+Exposure	Outcome	OR	Lower	Upper	SNPs	First_author_year_of_publication_Ref	P-Value
+Type 2 diabetes	Ischemic stroke	1.11	1.08	1.13		"Marios K Georgakis, 2021(270)"	p < 0.05
+Type 2 diabetes	Amyotrophic lateral sclerosis	0.96	0.92	0.996	8	"Linjing Zhang, 2022(271)"	p < 0.05
+Type 2 diabetes	Ischemic stroke	1.12	1.07	1.17	49	"Susanna C Larsson, 2017(272)"	p = 3.00 × 10??
+Type 2 diabetes	Large artery stroke	1.28	1.16	1.4	49	"Susanna C Larsson, 2017(272)"	p = 3.30 × 10??
+Type 2 diabetes	Small vessel stroke	1.21	1.1	1.33	49	"Susanna C Larsson, 2017(272)"	p = 8.90 × 10??
+Type 2 diabetes	Cardioembolic stroke	1.06	0.96	1.15	49	"Susanna C Larsson, 2017(272)"	p = 1.70 × 10?¹
+Type 2 diabetes	Amyotrophic lateral sclerosis	0.93	0.88	0.99	139	"Ping zeng, 2019(273)"	p = 2.30 × 10?²
+Type 2 diabetes	Ischemic stroke	1.07	0.75	1.4	11	"Weishi liu, 2021(275)"	p = 6.77 × 10?¹
+Type 2 diabetes	Intracranial aneurysm	0.89	0.83	0.95	48	"Danyang tian, 2022(276)"	p = 8.54 × 10??
+Type 2 diabetes	Multiple sclerosis	1.08	0.99	1.19	179	"Shuai yuan, 2021(277)"	p = 8.90 × 10?²
+Type 2 diabetes	Intracranial aneurysm	1.014	0.95	1.09	422	"Vile karhunen, 2021(278)"	p = 7.02 × 10?¹
+Type 2 diabetes	Carpal tunnel syndrome	1.17	1.07	1.29		"Jiarui mi, 2021(279)"	p = 1.11 × 10?³
+Type 2 diabetes	Alzheimer’s disease	1.02	0.97	1.07	49	"Soren D.Ostergaard, 2015(282)"	p = 5.35 × 10?¹
+Type 2 diabetes	Alzheimer’s disease	1.34	1.05	1.7	37	"Lei meng, 2022(283)"	p = 2.00 × 10?²
+Type 2 diabetes	Alzheimer’s disease	1.24	1.1	1.39	53	"Hua Xue, 2023(284)"	p = 3.00 × 10??
+Type 2 diabetes	Cardiovascular disease	1.05	1.04	1.06	East Asians 152/Europeans 119	Jonathan L Ciofani-2023(285)	p < 0.0001
+Type 2 diabetes	Ischemic stroke	1.09	1.07	1.11	African 22/european557	Segun Fatumo -2021(286)	p < 0.01
+Type 2 diabetes	Lacunar stroke	1.15	1.04	1.28	84	Junfeng Liu -2018(287)	p = 7.00 × 10?³
+Type 2 diabetes	Intracerebral hemorrhage	1.07	0.95	1.2	84	Junfeng Liu -2018(287)	p = 2.69 × 10?¹
+Type 2 diabetes	Stroke	1.05	1.023	1.08	243	Bowen Liu - 2021(288)	p < 0.0001
+Type 2 diabetes	Ischemic stroke	1.07	1.031	1.11	243	Bowen Liu - 2021(288)	p < 0.0001
+Type 2 diabetes	Ischemic stroke	1.08	1.02	1.14	48	Wei Gan-2019(289)	p < 0.01
+Type 2 diabetes	Ischemic stroke	1.1	1.08	1.12	183	Nhu Ngoc Le - 2023(290)	p < 0.0001
+Type 2 diabetes	Stroke	1.09	1.07	1.11	386	Mingkai Huang-2022(291)	p = 1.27 × 10?¹?
+Type 2 diabetes	Ischemic stroke	1.08	1.06	1.1	386	Mingkai Huang-2022(291)	p = 1.40 × 10?³
+Type 2 diabetes	Stroke	1.09	1.07	1.12	340	Lingyan Chen-2022(292)	p = 2.23 × 10?¹³
+Type 2 diabetes	Stroke	1.1	1.06	1.13	143	Ken Chen - 2022(293)	p < 0.001
+Type 2 diabetes	Fractional anisotropy	0.63	0.45	0.89	84	Junfeng Liu -2018(287)	p = 8.00 × 10?³
+Type 2 diabetes	White matter hyperintensities	1.01	0.97	1.04	84	Junfeng Liu -2018s(287)	p = 6.26 × 10?¹
+Type 2 diabetes	Mean diffusivity	1.04	0.89	1.23	84	Junfeng Liu -2018(287)	p = 6.12 × 10?¹
+Type 2 diabetes	Intracranial aneurysm	1.03	0.95	1.11	65	Femke Ng van 't Hof-2017(294)	p = 5.60 × 10?¹
+Type 2 diabetes	Acute ischemic stroke	1.09	1.07	1.12	187	Pan Zhang-2024(295)	p < 0.001
+Type 2 diabetes	Cardioembolic stroke	1.08	1.018	1.14	187	Pan Zhang-2024(295)	p = 1.00 × 10?²
+Type 2 diabetes	Small vessel stroke	1.17	1.1	1.24	187	Pan Zhang-2024(295)	p < 0.001
+Type 2 diabetes	Large artery stroke	1.2	1.12	1.3	187	Pan Zhang-2024(295)	p < 0.001
+Type 2 diabetes	Sudden sensorineural hearing loss	0.99	0.96	1.02	196	Deng et al. 2025  (296)	p = 5.80 × 10?¹
+Type 2 diabetes	Idiopathic sudden hearing loss	1.02	0.93	1.12	196	Deng et al. 2025  (201)	p = 6.80 × 10?¹
+Type 2 diabetes	Postherpetic neuralgia	1.23	1.01	1.49	189	Haoning Lan et al. 2025 (297)	p = 3.60 × 10?²
+Type 2 diabetes	Postherpetic neuralgia	1.31	1.04	1.65	113	Yang et al. 2025 (92)	p = 2.00 × 10?²
+Postherpetic neuralgia	Type 2 diabetes	1	0.98	1.03	4	Yang et al. 2025 (92)	p = 7.50 × 10?¹
+Type 2 diabetes	Vestibular dysfunction	1.01	0.98	1.04	111	Liu et al. 2025 (298)	p = 6.50 × 10?¹
+Type 2 diabetes	Olfactory dysfunction	1.12	0.97	1.29	113	Liu et al. 2025 (298)	p = 1.20 × 10?¹
+Type 2 diabetes	Hemiplegia	1.17	1.02	1.33	170	Li et al. 2025 (299)	p = 2.00 × 10?²
+Type 2 diabetes	Alzheimer’s disease	0.99	0.9	1.09	432	Han et al. 2025 (300)	p = 8.12 × 10?¹
+Type 2 diabetes	Alzheimer’s dementia	0.998	0.93	1.07	98	Wang et al. 2024 (301)	p = 9.59 × 10?¹

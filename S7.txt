@@ -1,0 +1,54 @@
+Exposure	Outcome	OR	Lower	Upper	SNPs	First_author_year_of_publication_Ref	P-Value
+Low hand grip strength	Type 2 diabetes	1.11	1.01	1.22	52	simin chen 2023(331)	p = 3.50 × 10?²
+Appendicular lean mass	Type 2 diabetes	0.9	0.83	0.95	552	simin chen 2023(331)	p < 0.001
+Walking pace	Type 2 diabetes	0.1	0.05	0.19	56	simin chen 2023(331)	p < 0.001
+Type 2 diabetes	Appendicular lean mass	1.018	0.957	0.992	181	simin chen 2023(331)	p = 1.68 × 10?¹
+Type 2 diabetes	Intervertebral disc degeneration	1.07	1.03	1.12	128	Peihao Jin 2023(332)	p = 2.00 × 10?³
+Type 2 diabetes	Gout	0.93	0.84	1.03	120	Yang Yang  2022(333)	p = 1.40 × 10?¹
+Knee osteoarthritis	Type 2 diabetes	1.18	1.09	1.27	5	Xing Xing 2023(334)	p < 0.001
+Hip osteoarthritis	Type 2 diabetes	1.04	0.94	1.16	16	Xing Xing 2023(334)	p = 4.25 × 10?¹
+Type 2 diabetes	Osteoporosis	0.999	0.997	1	38	Lulu Cheng 2023(335)	p = 5.60 × 10?³
+Type 2 diabetes	Synovitis-tenosynovitis	1.002	1.001	1.003	35	jiale Guo 2023(336)	p = 4.70 × 10?³
+Type 2 diabetes	High bone mineral density	1.25	1.06	1.46	60	Guiwu Huang 2023(337)	p = 6.49 × 10?³
+Type 2 diabetes	Osteoporosis	0.92	0.86	0.99	63	Guiwu Huang 2023(337)	p = 1.60 × 10?²
+Type 2 diabetes	Intervertebral disc degeneration	1.047	1.005	1.09	113	Ding-Qiang Chen 2023(338)	p = 2.78 × 10?²
+Type 2 diabetes	High triglycerides	1.083	1.014	1.157	80	Ding-Qiang Chen 2023(338)	p = 1.74 × 10?²
+Type 2 diabetes	Frozen shoulder	1.09	1.03	1.16		Tianhao Xu 2024(339)	p = 7.00 × 10?³
+Rheumatoid arthritis	Type 2 diabetes	1.04	1.02	1.05	70	K zhang  2023(340)	p < 0.00
+Type 2 diabetes	Frozen shoulder	1.02	0.9	1.16	67	Wenwen Yang  2023(341)	p = 7.80 × 10?¹
+Type 2 diabetes	High bone mineral density	1.03	1.01	1.06	118	Jianbin Guan  2024(342)	p = 2.00 × 10?³
+Type 2 diabetes	Low back pain	1.001	0.999	1.001	81	Jiaojiao (343)Geng 2024	p = 2.08 × 10?¹
+Atopic dermatitis	Type 2 diabetes	1.06	1	1.13	19/16	Feiwei Lu 2023(345)	p = 1.30 × 10?²
+Rheumatoid arthritis	Type 2 diabetes	1.03	1	1.05	136 (Excluding MHC SNPs)	Vivian K Kawai 2020(346)	p = 2.00 × 10?²
+High bone mineral density	Type 2 diabetes	1.08	1.02	1.14	235	Wei Gan 2017(347)	p = 1.20 × 10?²
+Muscle weakness	Type 2 diabetes	1.081	0.839	1.392	15	Xiaoqing Mou 2023(348)	p = 5.47 × 10?¹
+Type 2 diabetes	Femoral neck bone density	1.034	1.01	1.063	37	Omar S Ahmad 2017(349)	p = 1.70 × 10?²
+Type 2 diabetes	Lumbar spine bone density	1.022	0.99	1.052	37	Omar S Ahmad 2017(349)	p = 1.33 × 10?¹
+Type 2 diabetes	Low back pain	1	0.999	1.001	103	Yi Liu  2024(350)	p = 4.43 × 10?¹
+Male lean mass	Type 2 diabetes	1.1	1	1.2	267	Chris Ho Ching Yeung  2019 (352)	p = 4.90 × 10?²
+Female lean mass	Type 2 diabetes	1.08	0.99	1.19	261	Chris Ho Ching Yeung  2019 (352)	p = 9.00 × 10?²
+Grip strength	Type 2 diabetes	0.72	0.51	1.01	100	Chris Ho Ching Yeung  2019 (352)	p = 6.00 × 10?²
+Type 2 diabetes	Male lean mass	1.03	0.99	1.072	141	Chris Ho Ching Yeung  2019 (352)	p = 1.20 × 10?¹
+Type 2 diabetes	Female lean mass	1.041	1.01	1.083	141	Chris Ho Ching Yeung  2019 (352)	p = 2.00 × 10?²
+Type 2 diabetes	Grip strength	0.99	0.98	1	141	Chris Ho Ching Yeung  2019 (352)	p = 7.00 × 10?²
+Type 2 diabetes	Frozen shoulder	1.09	1.04	1.15	89	Tianhao Xu  2024 (339)	p = 6.97 × 10??
+Rheumatoid arthritis	Type 2 diabetes	1.02	1.01	1.03	61	K Zhang  2023 (340)	p < 0.001
+Type 2 diabetes	Back pain	1.02	1	1.04	189	Pradeep Suri  2023 (353)	p = 4.00 × 10?²
+Back pain	Type 2 diabetes	1.4	1.13	1.73	22	Pradeep Suri  2023 (353)	p = 2.00 × 10?³
+Type 2 diabetes	Fragility fractures	1.22	1.13	1.32	14	Frida Emanuelsson  2024 (354)	p = 1.00 × 10??
+Type 2 diabetes	Bone mineral density	1.013	0.95	1.08		Weiwei Ma  2023 (355)	p = 8.00 × 10??
+High bone mineral density	Type 2 diabetes	1.064	1.036	1.093	479	Xiaowen Zhang  2023 (356)	p < 0.001
+Type 2 diabetes	Rotator cuff syndrome	0.999	0.997	1.001	44	Zhang et al. 2025 (357)	p = 8.80 × 10?¹
+Type 2 diabetes	Osteomyelitis	1.21	1.01	1.47	48	K Zhang 2025 (358)	p = 1.00 × 10?³
+Type 2 diabetes	Osteomyelitis	1.39	1.21	1.59	104	K Zhang 2025 (358)	p < 0.001
+Type 2 diabetes	Lower limb ulcer	1.15	1.06	1.24	482	"Huan Wang, 2024 (265)"	p = 7.00 × 10??
+Type 2 diabetes	Hypertrophic scars	1.03	0.98	1.09	5	Zheng et al. 2025 (359)	p = 4.05 × 10?¹
+Nontoxic diffuse goitre	Type 2 diabetes	1.017	0.971	1.065	8	Wu et al. 2025 (360)	p = 5.02 × 10?¹
+Nontoxic multinodular goitre	Type 2 diabetes	0.94	0.9	0.98	45	Wu et al. 2025 (258)	p = 8.00 × 10?³
+Adhesive capsulitis of shoulder	Type 2 diabetes	1.03	0.95	1.31	114	Li er al. 2025 (361)	p = 4.10 × 10?¹
+Type 2 diabetes	Cervical disc disorder	1.08	1.03	1.12	135	Tang et al. 2025 (362)	p < 0.001
+Type 2 diabetes	Osteoporosis	0.92	0.87	0.98	135	Tang et al. 2025 (362)	p = 1.00 × 10?²
+Type 2 diabetes	Spinal stenosis	1.05	1	1.09	117	Fan et al. 2024 (363)	p = 3.10 × 10?²
+Ankylosing spondylitis	Type 2 diabetes	1.23	0.9	1.54	16	Ren et al. 2024 (364)	p > 0.05
+Type 2 diabetes	Pressure ulcers	1.27	1.04	1.55	64	Luo et al. 2024 (365) 	p = 1.90 × 10?²
+Type 2 diabetes	Osteomyelitis	1.32	1.14	1.52	114	Fu et al. 2024 (366)	p < 0.001

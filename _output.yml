@@ -1,0 +1,26 @@
+bookdown::gitbook:
+  config:
+    toc:
+      collapse: section
+      scroll_highlight: true
+      before: |
+        <style>
+        /* keep TOC fixed and scrollable */
+        .book-summary {
+          position: fixed;
+          top: 0;
+          left: 0;
+          bottom: 0;
+          overflow-y: auto;
+          width: 300px;
+        }
+        .book-body {
+          margin-left: 320px;
+        }
+        </style>
+bookdown::html_document2:
+  toc: true
+  toc_float:
+    collapsed: false
+    smooth_scroll: true
+    position: left

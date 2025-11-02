@@ -1,0 +1,15 @@
+Exposure	Outcome	OR	Lower	Upper	SNPs	First_author_year_of_publication_Ref	P-Value
+Telomere length	Type 2 diabetes	0.78	0.36	1.68	8	Lan Cao  2020(146)	p = 5.22 × 10?¹
+PARP	Type 2 diabetes	1.29	1.11	1.5	16	Ning Hua Cui  2020(147)	p >0.05
+Chromosomal deletion 16p11.2	Type 2 diabetes	7.2			3	Ruth Hanssen 2023(148)	p = 1.00 × 10?¹¹
+Telomere length	Type 2 diabetes	1	0.9	1.11	80	Nai Chieh Y You 2012(152)	p = 5.20 × 10?¹
+Telomere length	Type 2 diabetes	0.95	0.85	1.06	80	Nai Chieh Y You 2012(152)	p = 5.20 × 10?¹
+Telomere length	Type 2 diabetes	0.96	0.79	1.17	80	Nai Chieh Y You 2012(152)	p = 5.20 × 10?¹
+Telomere length	Type 2 diabetes	0.88	0.7	1.1	80	Nai Chieh Y You 2012(152)	p = 5.20 × 10?¹
+CpG methylation	Fasting glucose				18	Ren Hua Chung  2021(153)	p < 5.00 × 10??
+Telomere shortening	Type 2 diabetes	1.38	1.12	1.7	11	Feifei Cheng 2022(154)	p < 0.001
+Gene expression	Type 2 diabetes				186	Juliette A de Klerk  2023(155)	p < 0.05
+DNA methylation	Type 2 diabetes	3.51	2.79	4.42	4	Diana L Juvinao Quintero  2019(156)	p < 1.39 × 10??
+Insulin effect	Type 2 diabetes	1.01	0.97	1.05	8	Ghada A Soliman 2022(157)	p = 5.80 × 10?¹
+Insulin receptor effect	Type 2 diabetes	0.95	0.92	0.98	13	Ghada A Soliman 2022(157)	p = 1.00 × 10?³
+IGF-1 receptor effect	Type 2 diabetes	0.97	0.89	1.05	10	Ghada A Soliman 2022(157)	p = 4.70 × 10?¹
