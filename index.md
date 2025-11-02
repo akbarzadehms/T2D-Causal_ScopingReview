@@ -1,6 +1,6 @@
 ---
 title: "Recent Advances in unravelling the genetic Basis and causal pathways of Type 2 Diabetes:"
-subtitle: "A scoping review of Mendelian Randomization Studie"
+subtitle: "A scoping review of Mendelian Randomization Studies"
 author: "Mahdi Akbarzadeh, Melika Golmohammadi, Nima Babaei Darzi, Tara Asadi, Avin Khalichi, Reyhaneh Banaei Mobarak Abadi, Samin Mohammadi Farsani, Danial Habibi, Maryam Zarkesh, Maryam Sanoie, Amin Farahani, Mahdi Safarpoor, Farzad Hadaegh, Fereidoun Azizi, Mehdi Hedayati, Maryam Sadat Daneshpour"
 site: bookdown::bookdown_site
 documentclass: book

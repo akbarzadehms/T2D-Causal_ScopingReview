@@ -42,9 +42,9 @@ type-2-diabetes-on-sexual-health-disorders
 infectious-disorders
 infectious-diseases-on-type-2-diabetes
 type-2-diabetes-on-infectious-disease
-infectious-disorders-1
-infectious-diseases-on-type-2-diabetes-1
-type-2-diabetes-on-infectious-disease-1
+sleep-and-awake-disorders
+sleep-and-awake-disorders-on-type-2-diabetes
+type-2-diabetes-on-sleep-and-awake-disorders
 perinatal-conditions
 perinatal-conditionss-on-type-2-diabetes
 type-2-diabetes-on-perinatal-conditions
