@@ -1,0 +1,17 @@
+/* Fix ugly word breaking on mobile for gitbook */
+.book .book-body .page-wrapper .page-inner h1,
+.book .book-body .page-wrapper .page-inner h2,
+.book .book-body .page-wrapper .page-inner h3,
+.book .book-body .page-wrapper .page-inner h4,
+.book .book-body .page-wrapper .page-inner h5,
+.book .book-body .page-wrapper .page-inner h6 {
+  word-break: normal !important;      /* جلوگیری از شکستن بین حروف */
+  overflow-wrap: anywhere;            /* شکستن هوشمند بین واژه‌ها */
+  hyphens: auto;                      /* خط تیره خودکار برای کلمات بلند */
+}
+
+/* کمی بهینه‌سازی فونت و فاصله‌ها در موبایل */
+@media (max-width: 600px) {
+  .book .book-body .page-wrapper { padding: 12px; }
+  .book .book-body .page-wrapper .page-inner p { line-height: 1.6; }
+}
